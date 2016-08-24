@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrovoCrossCutting", "TrovoC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrovoCrossCuttingTests", "TrovoCrossCuttingTests\TrovoCrossCuttingTests.csproj", "{B9DD926D-2A6E-4634-B63A-A5973EFDCC54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESSReferenceImplementationTests", "TestReferenceImplementationTests\TESSReferenceImplementationTests.csproj", "{3FB80DBC-3F41-421B-9F0A-536B5282BBB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B9DD926D-2A6E-4634-B63A-A5973EFDCC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9DD926D-2A6E-4634-B63A-A5973EFDCC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9DD926D-2A6E-4634-B63A-A5973EFDCC54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB80DBC-3F41-421B-9F0A-536B5282BBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB80DBC-3F41-421B-9F0A-536B5282BBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB80DBC-3F41-421B-9F0A-536B5282BBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB80DBC-3F41-421B-9F0A-536B5282BBB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

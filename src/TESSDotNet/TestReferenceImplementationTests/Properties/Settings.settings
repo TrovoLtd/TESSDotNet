@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestReferenceImplementationTests.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="baseTestUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:57650/SearchResults</Value>
+    </Setting>
+    <Setting Name="searchBoxId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">q</Value>
+    </Setting>
+    <Setting Name="searchButtonId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">searchBoxSubmit</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
