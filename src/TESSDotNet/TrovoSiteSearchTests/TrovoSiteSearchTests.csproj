@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B0879390-5040-410B-BBBF-05C24FC4AF34}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrovoSiteSearchTests</RootNamespace>
+    <AssemblyName>TrovoSiteSearchTests</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>False</IsCodedUITest>
+    <TestProjectType>UnitTest</TestProjectType>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.XML" />
+    <Reference Include="TrovoCrossCutting, Version=1.0.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\TrovoCrossCutting.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Choose>
+    <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+      </ItemGroup>
+    </When>
+    <Otherwise>
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+      </ItemGroup>
+    </Otherwise>
+  </Choose>
+  <ItemGroup>
+    <Compile Include="GoogleSiteSearchPluginTests\GoogleQueryStringBuilderTests.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\GoogleQueryStringBuilderWithFilteredQueriesTests.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\GoogleQueryStringDecoratorTests.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\GoogleSearchCommandTests.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\GoogleSiteSearchMockSearchCommand.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\ParseResultWithMissingFields.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\RequestTests.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\ResultFormattingTests.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\TestSpellingAdaptation.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\GoogleResultPageBuilderTests.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\GoogleResultPageBuilderPromotionTests.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\GoogleResultPageBuilderSpellingTests.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\GoogleResultPageExceptionTests.cs" />
+    <Compile Include="MimeTypeConverterTests.cs" />
+    <Compile Include="MockSearchPluginTests\MockResultPageAdaptorTests.cs" />
+    <Compile Include="MockSearchPluginTests\MockPaginationTests.cs" />
+    <Compile Include="MockSearchPluginTests\MockSerialisationTests.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GoogleSiteSearchPluginTests\TestPromotionAdaptation.cs" />
+    <Compile Include="TrovoSearchFacadeErrorHandlingTests.cs" />
+    <Compile Include="TrovoSearchFacadeTests.cs" />
+    <Compile Include="TrovoSearchProviderFactoryTests.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TrovoSiteSearch\TrovoSiteSearch.csproj">
+      <Project>{2f000950-6c6a-405c-92dd-fd5ef1594df9}</Project>
+      <Name>TrovoSiteSearch</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\containsPDF.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\containsResultWithMissingFields.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\panopticon.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\PhotographyTwoPromotions.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\PlainText.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\promotionDescriptionBug.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\promotionsBusiness.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\PromotionSearchForCommunicationReturnsNoPromotionDescription.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\PromotionSearchForHadronReturnsDescriptionAndImageURLs.xml">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\PromotionSearchForInformationAgeReturnsDescription.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\queryForCriminal.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\queryForMurder.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\queryResponseExperiment.xml" />
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\queryResponse.xml" />
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\resultsWithBrokenXML.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\searchForFoodWithEscapedApostrophe.xml" />
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\spellingMistakeTarffic.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="GoogleSiteSearchPluginTests\GoogleXMLOutput\spellingMistakeTarfficJam.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Lib\log4net.dll" />
+    <Content Include="Lib\Microsoft.Practices.EnterpriseLibrary.Common.dll" />
+    <Content Include="Lib\Microsoft.Practices.EnterpriseLibrary.Logging.dll" />
+    <Content Include="Lib\Microsoft.Practices.ServiceLocation.dll" />
+    <Content Include="Lib\Microsoft.Practices.Unity.dll" />
+    <Content Include="Lib\Microsoft.Practices.Unity.Interception.dll" />
+    <Content Include="Lib\TrovoCrossCutting.dll" />
+    <Content Include="MockSearchPluginTests\MockData\searchResults.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GoogleSiteSearchPluginTests\TestFileOutput\" />
+    <Folder Include="LogOutput\" />
+  </ItemGroup>
+  <Choose>
+    <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.CodedUITestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITesting, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </When>
+  </Choose>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

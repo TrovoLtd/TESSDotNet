@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2F000950-6C6A-405C-92DD-FD5EF1594DF9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrovoSiteSearch</RootNamespace>
+    <AssemblyName>TrovoSiteSearch</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TrovoCrossCutting, Version=1.0.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\TrovoCrossCutting.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enumerations\ProviderType.cs" />
+    <Compile Include="Enumerations\TrovoFilterMode.cs" />
+    <Compile Include="Enumerations\TrovoFilterType.cs" />
+    <Compile Include="Enumerations\TrovoSorterMode.cs" />
+    <Compile Include="Enumerations\TrovoSorterType.cs" />
+    <Compile Include="GoogleSiteSearch\CleanableDataBlock.cs" />
+    <Compile Include="GoogleSiteSearch\GooglePromotedLink.cs" />
+    <Compile Include="GoogleSiteSearch\GoogleQueryStringBuilder.cs" />
+    <Compile Include="GoogleSiteSearch\GoogleQueryStringDecorator.cs" />
+    <Compile Include="GoogleSiteSearch\GoogleResult.cs" />
+    <Compile Include="GoogleSiteSearch\GoogleResultPage.cs" />
+    <Compile Include="GoogleSiteSearch\GoogleResultPageBuilder.cs" />
+    <Compile Include="GoogleSiteSearch\GoogleSearchCommand.cs" />
+    <Compile Include="GoogleSiteSearch\GoogleSearchQueryParameterName.cs" />
+    <Compile Include="GoogleSiteSearch\GoogleSearchRequest.cs" />
+    <Compile Include="GoogleSiteSearch\GoogleSiteSearchConfigSettings.cs" />
+    <Compile Include="GoogleSiteSearch\GoogleSpellingSuggestion.cs" />
+    <Compile Include="Interfaces\ITrovoFilter.cs" />
+    <Compile Include="Interfaces\ITrovoPromotedLink.cs" />
+    <Compile Include="Interfaces\ITrovoQuery.cs" />
+    <Compile Include="Interfaces\ITrovoRelatedQuery.cs" />
+    <Compile Include="Interfaces\ITrovoResult.cs" />
+    <Compile Include="Interfaces\ITrovoResultPage.cs" />
+    <Compile Include="Interfaces\ITrovoSearchCommand.cs" />
+    <Compile Include="Interfaces\ITrovoSearchRequest.cs" />
+    <Compile Include="Interfaces\ITrovoSorter.cs" />
+    <Compile Include="Interfaces\ITrovoSpellingSuggestion.cs" />
+    <Compile Include="MockSearch\CleanableDataBlock.cs" />
+    <Compile Include="MockSearch\MockConfigSettings.cs" />
+    <Compile Include="MockSearch\MockObjects\For.cs" />
+    <Compile Include="MockSearch\MockObjects\Promotion.cs" />
+    <Compile Include="MockSearch\MockObjects\Result.cs" />
+    <Compile Include="MockSearch\MockObjects\ResultPage.cs" />
+    <Compile Include="MockSearch\MockObjects\Spelling.cs" />
+    <Compile Include="MockSearch\MockObjects\Suggestion.cs" />
+    <Compile Include="MockSearch\MockPromotedLinkAdaptor.cs" />
+    <Compile Include="MockSearch\MockResultAdaptor.cs" />
+    <Compile Include="MockSearch\MockResultPage.cs" />
+    <Compile Include="MockSearch\MockResultPageAdaptor.cs" />
+    <Compile Include="MockSearch\MockSearchCommand.cs" />
+    <Compile Include="MockSearch\MockSearchRequest.cs" />
+    <Compile Include="MockSearch\MockSpellingSuggestionAdaptor.cs" />
+    <Compile Include="Service References\SP2010QueryServiceProxy\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="SP2010Search\ResultXMLAggregator.cs" />
+    <Compile Include="SP2010Search\SP2010SearchCommand.cs" />
+    <Compile Include="TrovoMimeTypeConverter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TrovoFilter.cs" />
+    <Compile Include="TrovoQuery.cs" />
+    <Compile Include="TrovoSearchFacade.cs" />
+    <Compile Include="TrovoSearchRequestFactory.cs" />
+    <Compile Include="TrovoSorter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\DataSources\System.Data.DataSet.datasource" />
+    <None Include="Service References\SP2010QueryServiceProxy\search.wsdl" />
+    <None Include="Service References\SP2010QueryServiceProxy\TrovoSiteSearch.SP2010QueryServiceProxy.QueryResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SP2010QueryServiceProxy\TrovoSiteSearch.SP2010QueryServiceProxy.RecordClickResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SP2010QueryServiceProxy\TrovoSiteSearch.SP2010QueryServiceProxy.RegistrationResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SP2010QueryServiceProxy\TrovoSiteSearch.SP2010QueryServiceProxy.StatusResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\SP2010QueryServiceProxy\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\SP2010QueryServiceProxy\search.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\SP2010QueryServiceProxy\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\SP2010QueryServiceProxy\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\SP2010QueryServiceProxy\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Lib\log4net.dll" />
+    <Content Include="Lib\Microsoft.Practices.EnterpriseLibrary.Common.dll" />
+    <Content Include="Lib\Microsoft.Practices.EnterpriseLibrary.Logging.dll" />
+    <Content Include="Lib\Microsoft.Practices.ServiceLocation.dll" />
+    <Content Include="Lib\Microsoft.Practices.Unity.dll" />
+    <Content Include="Lib\Microsoft.Practices.Unity.Interception.dll" />
+    <Content Include="Lib\TrovoCrossCutting.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

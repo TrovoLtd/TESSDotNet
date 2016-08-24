@@ -1,0 +1,1 @@
+Here is a file that's just some plain text, to use in the "pass the GooglePageBuilder a file that isn't XML" test.

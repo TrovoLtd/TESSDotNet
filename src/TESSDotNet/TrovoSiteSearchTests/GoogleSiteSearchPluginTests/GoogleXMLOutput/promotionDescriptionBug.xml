@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GSP VER="3.2">
+  <TM>0.208865</TM>
+  <Q>leicester city council</Q>
+  <PARAM js_escaped_value="002206009437565740511:m1b764ynfvk" name="cx" original_value="002206009437565740511:m1b764ynfvk" url_escaped_value="002206009437565740511%3Am1b764ynfvk" value="002206009437565740511:m1b764ynfvk"></PARAM>
+  <PARAM js_escaped_value="google-csbe" name="client" original_value="google-csbe" url_escaped_value="google-csbe" value="google-csbe"></PARAM>
+  <PARAM js_escaped_value="xml_no_dtd" name="output" original_value="xml_no_dtd" url_escaped_value="xml_no_dtd" value="xml_no_dtd"></PARAM>
+  <PARAM js_escaped_value="leicester city council" name="q" original_value="leicester+city+council" url_escaped_value="leicester+city+council" value="leicester city council"></PARAM>
+  <PARAM js_escaped_value="AELymgUafP39P7RZjPh_V1chCo-7dDc00j3OwPZZvEsTcL6D5Hsm0UTwmnOvux2ZoYLxtqet2SlSuKLd4A3GM5hXvZfTcZ7ILLX4mwsSIjw-X6X9Mz3qju7pm0l7HO1eR9xVMKgNVZQ7uQFAmuPBB8LmIdxqu4FXrZ91qORUpyIBh2wmFXzmVelvRNEziBGVVFWOvenWZQSErbm3MO9Egc3-mg9h4SI7xw" name="adkw" original_value="AELymgUafP39P7RZjPh_V1chCo-7dDc00j3OwPZZvEsTcL6D5Hsm0UTwmnOvux2ZoYLxtqet2SlSuKLd4A3GM5hXvZfTcZ7ILLX4mwsSIjw-X6X9Mz3qju7pm0l7HO1eR9xVMKgNVZQ7uQFAmuPBB8LmIdxqu4FXrZ91qORUpyIBh2wmFXzmVelvRNEziBGVVFWOvenWZQSErbm3MO9Egc3-mg9h4SI7xw" url_escaped_value="AELymgUafP39P7RZjPh_V1chCo-7dDc00j3OwPZZvEsTcL6D5Hsm0UTwmnOvux2ZoYLxtqet2SlSuKLd4A3GM5hXvZfTcZ7ILLX4mwsSIjw-X6X9Mz3qju7pm0l7HO1eR9xVMKgNVZQ7uQFAmuPBB8LmIdxqu4FXrZ91qORUpyIBh2wmFXzmVelvRNEziBGVVFWOvenWZQSErbm3MO9Egc3-mg9h4SI7xw" value="AELymgUafP39P7RZjPh_V1chCo-7dDc00j3OwPZZvEsTcL6D5Hsm0UTwmnOvux2ZoYLxtqet2SlSuKLd4A3GM5hXvZfTcZ7ILLX4mwsSIjw-X6X9Mz3qju7pm0l7HO1eR9xVMKgNVZQ7uQFAmuPBB8LmIdxqu4FXrZ91qORUpyIBh2wmFXzmVelvRNEziBGVVFWOvenWZQSErbm3MO9Egc3-mg9h4SI7xw"></PARAM>
+  <PARAM js_escaped_value="en" name="hl" original_value="en" url_escaped_value="en" value="en"></PARAM>
+  <PARAM js_escaped_value="UTF-8" name="oe" original_value="UTF-8" url_escaped_value="UTF-8" value="UTF-8"></PARAM>
+  <PARAM js_escaped_value="UTF-8" name="ie" original_value="UTF-8" url_escaped_value="UTF-8" value="UTF-8"></PARAM>
+  <PARAM js_escaped_value="0" name="boostcse" original_value="0" url_escaped_value="0" value="0"></PARAM>
+  <Context>
+    <title>Trovo Site Search</title>
+    <total_results>0</total_results>
+  </Context>
+  <RES EN="10" SN="1">
+    <M>50</M>
+    <NB>
+      <NU>/custom?q=leicester+city+council&amp;client=google-csbe&amp;cx=002206009437565740511:m1b764ynfvk&amp;hl=en&amp;boostcse=0&amp;output=xml_no_dtd&amp;ie=UTF-8&amp;oe=UTF-8&amp;prmd=ivns&amp;ei=mmANVNyYNMrgaqnCgcgE&amp;start=10&amp;sa=N</NU>
+    </NB>
+    <RG SIZE="11" START="1"></RG>
+    <RG START="1" SIZE="1"></RG>
+    <R N="1">
+      <U>http://trovo.co.uk/lcc.aspx</U>
+      <UE>http://trovo.co.uk/lcc.aspx</UE>
+      <T>Trovo and &lt;b&gt;Leicester City Council&lt;/b&gt;</T>
+      <RK>0</RK>
+      <S></S>
+      <LANG>un</LANG>
+      <SL_RESULTS>
+        <SL_MAIN>
+          <T>
+            Trovo and <em>Leicester City Council</em>
+          </T>
+          <U>http://trovo.co.uk/lcc.aspx</U>
+          <BODY_LINE>
+            <BLOCK>
+              <T>
+                Find out how Trovo works with <em>Leicester City Council</em> on both its website and intranet search
+              </T>
+              <U></U>
+              <L></L>
+            </BLOCK>
+          </BODY_LINE>
+          <BODY_LINE></BODY_LINE>
+        </SL_MAIN>
+      </SL_RESULTS>
+    </R>
+    <RG SIZE="1" START="2"></RG>
+    <R N="2">
+      <U>http://www.trovo.co.uk/lcc.aspx</U>
+      <UE>http://www.trovo.co.uk/lcc.aspx</UE>
+      <T>How Trovo helped &lt;b&gt;Leicester City Council&lt;/b&gt; migrate their website &lt;b&gt;...&lt;/b&gt;</T>
+      <RK>0</RK>
+      <S>
+        Read how Trovo helped &lt;b&gt;Leicester City Council&lt;/b&gt; to migrate their Google website &lt;br&gt;
+        search into The Cloud. In February 2013, Trovo completed the migration of&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, width=device-width"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="q_uqeWmdSd4J" SZ="9k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="3"></RG>
+    <R N="3">
+      <U>http://www.trovo.co.uk/</U>
+      <UE>http://www.trovo.co.uk/</UE>
+      <T>Trovo: web and intranet search consultancy in the East Midlands, UK</T>
+      <RK>0</RK>
+      <S>
+        Our clients include &lt;b&gt;Leicester City Council&lt;/b&gt; and we have a unique local experience &lt;br&gt;
+        in configuring and supporting Google and SharePoint-based search solutions.
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, width=device-width"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.trovo.co.uk/Images/Homepage/lccWebsite.jpg"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="160"/>
+          <Attribute name="height" value="61"/>
+          <Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKk0yVvF9_VwQz2IQhVkbSeTQNFUwLYt3n6nk9VEolfghRCfWXuCQYxkQ"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="yoZubmuEdjYJ" SZ="8k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="4"></RG>
+    <R N="4">
+      <U>http://www.britishmuseum.org/whats_on/past_exhibitions/2014/richard_iii.aspx</U>
+      <UE>http://www.britishmuseum.org/whats_on/past_exhibitions/2014/richard_iii.aspx</UE>
+      <T>British Museum - Richard III: facial reconstruction</T>
+      <RK>0</RK>
+      <S>
+        In partnership with the Richard III Society and &lt;b&gt;Leicester City Council&lt;/b&gt;, the &lt;br&gt;
+        University of Leicester undertook excavations in central Leicester with the aim of &lt;br&gt;
+        finding&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="og:title" value="Richard III: facial reconstruction"/>
+          <Attribute name="og:type" value="website"/>
+          <Attribute name="og:url" value="http://www.britishmuseum.org/whats_on/past_exhibitions/2014/richard_iii.aspx"/>
+          <Attribute name="og:site_name" value="British Museum"/>
+          <Attribute name="og:description" value="."/>
+          <Attribute name="og:locale" value="en_GB"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.britishmuseum.org/images/admiralty_seal_of_richard_duke_300x204.jpg"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="243"/>
+          <Attribute name="height" value="160"/>
+          <Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSq-78Y8EeUfCtdJVKtxqK574YpNOEFGNBBqIIms_5jp1CJDw8t-JPE9EM"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="rUsKPSF2ROIJ" SZ="28k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="5"></RG>
+    <R N="5">
+      <U>http://www.trovo.co.uk/tess.aspx</U>
+      <UE>http://www.trovo.co.uk/tess.aspx</UE>
+      <T>TESS - Trovo Enhanced Site Search</T>
+      <RK>0</RK>
+      <S>
+        Find out how we implemented TESS - Trovo Enhanced Site Search™ for &lt;br&gt;
+        &lt;b&gt;Leicester City Council&lt;/b&gt;, after Google ended support for their existing Google Mini &lt;br&gt;
+        search&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, width=device-width"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="ySyDdeNp-G8J" SZ="13k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="6"></RG>
+    <R N="6">
+      <U>http://www.britishmuseum.org/whats_on/being_roman.aspx</U>
+      <UE>http://www.britishmuseum.org/whats_on/being_roman.aspx</UE>
+      <T>British Museum - Being Roman</T>
+      <RK>0</RK>
+      <S>
+        &lt;b&gt;Leicester&lt;/b&gt;. Lincoln. Liverpool. Liverpool. London. London. Luton. Maidstone .... &lt;br&gt;
+        Leeds &lt;b&gt;City&lt;/b&gt; Museum, The McManus in Dundee and Segedunum Roman Fort and&lt;br&gt;
+        &amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="og:title" value="Being Roman"/>
+          <Attribute name="og:type" value="website"/>
+          <Attribute name="og:url" value="http://www.britishmuseum.org/whats_on/being_roman.aspx"/>
+          <Attribute name="og:site_name" value="British Museum"/>
+          <Attribute name="og:description" value="Information about all things Roman in Britain."/>
+          <Attribute name="og:locale" value="en_GB"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.britishmuseum.org/images/roman_tour_304x176.jpg"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="243"/>
+          <Attribute name="height" value="140"/>
+          <Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQoI-3COZhngbd6BkiqSrCJhuKGT7IFWrokHTqWU5D1gGe9sGq1B949Bc"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="q2CJBMGKUkgJ" SZ="74k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="7"></RG>
+    <R N="7">
+      <U>https://www.britishmuseum.org/about_us/departments/prehistory_and_europe/reading_list.aspx</U>
+      <UE>https://www.britishmuseum.org/about_us/departments/prehistory_and_europe/reading_list.aspx</UE>
+      <T>British Museum - Reading list</T>
+      <RK>0</RK>
+      <S>
+        &lt;b&gt;Leicester&lt;/b&gt;: Leceister Archaeology Monograph No. 7. University of &lt;b&gt;Leicester&lt;/b&gt;. &lt;br&gt;
+        Neolithic. Bradley .... Glasgow: Glasgow &lt;b&gt;City Council&lt;/b&gt; (Museums). Edge, D. and &lt;br&gt;
+        J. M.&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <HAS>
+        <L></L>
+        <C CID="tX0_Ea24ZhIJ" SZ="38k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="8"></RG>
+    <R MIME="application/pdf" N="8">
+      <U>https://www.britishmuseum.org/pdf/Chinese%20diaspora%20in%20Britain%20201008.pdf</U>
+      <UE>https://www.britishmuseum.org/pdf/Chinese%2520diaspora%2520in%2520Britain%2520201008.pdf</UE>
+      <T>Chinese Diaspora in Britain</T>
+      <RK>0</RK>
+      <S>
+        maritime &lt;b&gt;city&lt;/b&gt; with shipping companies trading with China. British shipping .... &lt;br&gt;
+        Education, &lt;b&gt;Leicester&lt;/b&gt; and began working as a session hair and make-up artist ... &lt;br&gt;
+        Aberdeen &lt;b&gt;city council&lt;/b&gt; approved plans for a new Chinatown in the northern part.
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="creationdate" value="D:20081020103225+01&#39;00&#39;"/>
+          <Attribute name="author" value="khoare"/>
+          <Attribute name="creator" value="Acrobat PDFMaker 7.0.7 for Word"/>
+          <Attribute name="producer" value="Acrobat Distiller 7.0.5 (Windows)"/>
+          <Attribute name="moddate" value="D:20081020103300+01&#39;00&#39;"/>
+          <Attribute name="company" value="The British Museum"/>
+          <Attribute name="sourcemodified" value="D:20081020093156"/>
+          <Attribute name="title" value="Chinese Diaspora in Britain"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="OfoIUY2Xoa0J" SZ=""></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="9"></RG>
+    <R N="9">
+      <U>http://www.britishmuseum.org/about_us/departments/staff/coins_and_medals/ian_leins.aspx</U>
+      <UE>http://www.britishmuseum.org/about_us/departments/staff/coins_and_medals/ian_leins.aspx</UE>
+      <T>British Museum - Ian Leins</T>
+      <RK>0</RK>
+      <S>
+        ... award with Newcastle University, funded by the Arts and Humanities Research &lt;br&gt;
+        &lt;b&gt;Council&lt;/b&gt;) ... Leicestershire (&lt;b&gt;Leicester&lt;/b&gt; Archaeology Monograph 21, forthcoming &lt;br&gt;
+        2011) ... I. Leins, Roman, Medieval and later coins from the Vintry, &lt;b&gt;City&lt;/b&gt; of London,&lt;br&gt;
+        &amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="og:title" value="Ian Leins"/>
+          <Attribute name="og:type" value="website"/>
+          <Attribute name="og:url" value="http://www.britishmuseum.org/about_us/departments/staff/coins_and_medals/ian_leins.aspx"/>
+          <Attribute name="og:site_name" value="British Museum"/>
+          <Attribute name="og:description" value="Profile of Ian Leins, Curator of Iron Age and Roman coins, Department of Coins and Medals"/>
+          <Attribute name="og:locale" value="en_GB"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="sxX9uesLg9MJ" SZ="30k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="10"></RG>
+    <R MIME="application/pdf" N="10">
+      <U>https://www.britishmuseum.org/pdf/annualreview0607.pdf</U>
+      <UE>https://www.britishmuseum.org/pdf/annualreview0607.pdf</UE>
+      <T>British Museum Review 2006/7 Inthecity Acrossthe country &lt;b&gt;...&lt;/b&gt;</T>
+      <RK>0</RK>
+      <S>
+        Hunt and the &lt;b&gt;city&amp;#39;s&lt;/b&gt; leaders as to what exactly ... Camden. &lt;b&gt;Council&lt;/b&gt; approved the &lt;br&gt;
+        temporary conversion of ... of &lt;b&gt;Leicester&lt;/b&gt; archaeologists were so badly.
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="creationdate" value="D:20070703124741Z"/>
+          <Attribute name="creator" value="QuarkXPress(tm) 6.1"/>
+          <Attribute name="producer" value="QuarkXPress(tm) 6.1"/>
+          <Attribute name="moddate" value="D:20070703155044+01&#39;00&#39;"/>
+          <Attribute name="xpressprivate" value="%%DocumentProcessColors: Cyan Magenta Yellow Black %%DocumentCustomColors: (PANTONE 123 U) %%+ (PANTONE Cool Gray 10 U) %%RGBCustomColor: 1 .607 .115 (PANTONE 123 U) %%+ .412 .422 .44 (PANTONE Cool Gray 10 U) %%EndComments"/>
+          <Attribute name="title" value="Layout 1"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="x-raw-image:///7cd7c79220f41a9514b76aea487b035b5e85f0bf74c7232a80b7caaad79dc3b3"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="270"/>
+          <Attribute name="height" value="187"/>
+          <Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReWkzsJap6IQMb2pCRmr82BqwQMorrDjS-9Dwe9qDH1Z9Vgj4yITiGmLo"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="7iWKoRreo8MJ" SZ=""></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="11"></RG>
+    <R MIME="application/pdf" N="11">
+      <U>https://www.britishmuseum.org/pdf/British_Museum-UK_partners_2013.pdf</U>
+      <UE>https://www.britishmuseum.org/pdf/British_Museum-UK_partners_2013.pdf</UE>
+      <T>This map</T>
+      <RK>0</RK>
+      <BYLINEDATE>1370415600</BYLINEDATE>
+      <S>
+        5 Jun 2013 &lt;b&gt;...&lt;/b&gt; Derry &lt;b&gt;City Council&lt;/b&gt; Museums,. The Tower Museum. Spotlights – ... New Walk &lt;br&gt;
+        Museum, &lt;b&gt;Leicester&lt;/b&gt;. Spotlights –. The Sikh Fortress Turban.
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="author" value="Nisha Patalia"/>
+          <Attribute name="creator" value="Microsoft® Word 2010"/>
+          <Attribute name="creationdate" value="D:20130606182436+01&#39;00&#39;"/>
+          <Attribute name="moddate" value="D:20130606182436+01&#39;00&#39;"/>
+          <Attribute name="producer" value="Microsoft® Word 2010"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="x-raw-image:///b3ac7a6855b8a1ac1fe2d51d49ca8190042e640659edf08b322bd70d80df69b3"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="189"/>
+          <Attribute name="height" value="267"/>
+          <Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT6CG22SQoPFLXuwhvETW0jfohCH30gieDXY1LBumpRwjcFbsR4N-jxZo"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="tg_aXReACHgJ" SZ=""></C>
+        <RT></RT>
+      </HAS>
+    </R>
+  </RES>
+</GSP>
