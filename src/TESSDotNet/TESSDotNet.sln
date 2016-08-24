@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrovoSiteSearch", "TrovoSit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrovoSiteSearchTests", "TrovoSiteSearchTests\TrovoSiteSearchTests.csproj", "{B0879390-5040-410B-BBBF-05C24FC4AF34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESSReferenceImplementation", "TESSReferenceImplementation\TESSReferenceImplementation.csproj", "{76790587-8D37-4D8F-B2C0-91C687092DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrovoCrossCutting", "TrovoCrossCutting\TrovoCrossCutting.csproj", "{07C53CC8-B1F7-431F-996A-6E17301E3376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrovoCrossCuttingTests", "TrovoCrossCuttingTests\TrovoCrossCuttingTests.csproj", "{B9DD926D-2A6E-4634-B63A-A5973EFDCC54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{B0879390-5040-410B-BBBF-05C24FC4AF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0879390-5040-410B-BBBF-05C24FC4AF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0879390-5040-410B-BBBF-05C24FC4AF34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76790587-8D37-4D8F-B2C0-91C687092DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76790587-8D37-4D8F-B2C0-91C687092DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76790587-8D37-4D8F-B2C0-91C687092DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76790587-8D37-4D8F-B2C0-91C687092DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C53CC8-B1F7-431F-996A-6E17301E3376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C53CC8-B1F7-431F-996A-6E17301E3376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C53CC8-B1F7-431F-996A-6E17301E3376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C53CC8-B1F7-431F-996A-6E17301E3376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DD926D-2A6E-4634-B63A-A5973EFDCC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DD926D-2A6E-4634-B63A-A5973EFDCC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DD926D-2A6E-4634-B63A-A5973EFDCC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DD926D-2A6E-4634-B63A-A5973EFDCC54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
