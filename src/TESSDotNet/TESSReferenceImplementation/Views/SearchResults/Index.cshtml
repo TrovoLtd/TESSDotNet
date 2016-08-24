@@ -1,0 +1,108 @@
+﻿@model TESSReferenceImplementation.Models.TESSViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>SearchResults</h2>
+
+@using (@Html.BeginForm("SearchResults", "Search", FormMethod.Get))
+{
+
+    <p>
+        @Html.TextBox("q")
+        <input type="hidden" id="pageNo" name="pageNo" value="1" />
+        <input type="submit" id="searchBoxSubmit" value="Search" />
+    </p>
+}
+
+@if (Model.ResultPage == null || !Model.SearchTermEntered)
+{
+    if (Model.ErrorOccurred)
+    {
+        <div id="outcomeMessage">An error has occurred.</div>
+
+        <p id="errorType">Error type: @Model.ErrorType</p>
+
+        <p id="errorMessage">Error message: @Model.ErrorMessage</p>
+
+        <p><a id="aErrorGoogleLink" href="@(string.Format("https://www.google.co.uk/#hl=en&q={0}+site:www.leicester.gov.uk", Model.SearchTermEscaped))">Search with Google</a></p>
+
+    }
+    else
+    {
+        <div id="outcomeMessage">Please enter a search term in the box above.</div>
+    }
+
+}
+else
+{
+    if (Model.ResultPage.HasResults)
+    {
+        <div id="outcomeMessage">Your search for @Model.SearchTerm returned @Model.ResultPage.TotalNumberOfResults results.</div>
+
+        <div id="currentPageMessage">Page @Model.CurrentPage of @Model.ResultPage.TotalNumberOfPages</div>
+
+        if (Model.ResultPage.SpellingSuggestions != null)
+        {
+            int suggestionCount = 0;
+
+            foreach (var spellingSuggestion in Model.ResultPage.SpellingSuggestions)
+            {
+                suggestionCount++;
+                <p id="@(string.Format("spellingSuggestion{0}", suggestionCount))" class="spellingSuggestion"> Did you mean: <strong><em><a href="@(string.Format("?q={0}&amp;pageNo=1", @spellingSuggestion.SuggestedTerm))">@spellingSuggestion.TermForDisplay</a></em></strong>?</p>
+            }
+        }
+
+
+        if (Model.ResultPage.PromotedLinks != null)
+        {
+            int linkCount = 0;
+
+            <ul id="promotionsList">
+
+                @foreach (var promotedLink in Model.ResultPage.PromotedLinks)
+                {
+                    linkCount++;
+                    <li id="@(string.Format("promotedLink{0}", linkCount))">
+                        <span id="@(string.Format("promotedLinkTitle{0}", linkCount))">@Html.Raw(promotedLink.Title)</span>
+                        <span id="@(string.Format("promotedLinkUrl{0}", linkCount))"><a href="@promotedLink.Url">@promotedLink.Url</a></span>
+                        <p id="@(string.Format("promotedLinkDescription{0}", linkCount))">@Html.Raw(promotedLink.Description)</p>
+                    </li>
+                }
+
+            </ul>
+        }
+
+        <dl id="dlResults">
+
+            @foreach (var result in Model.ResultPage.Results)
+            {
+                <dt id="@(string.Format("resultTitle{0}", result.RankWithinPage))" class="resultTitle">
+
+                    @if (!string.IsNullOrEmpty(result.FileType))
+                    {
+                        @(string.Format("[{0}]", result.FileType));
+                    }
+
+                    <a href="@result.URL">@Html.Raw(result.Title)</a>
+                </dt>
+                <dd id="@(string.Format("resultDescription{0}", result.RankWithinPage))">
+                    <p id="@(string.Format("resultSnippet{0}", result.RankWithinPage))">@Html.Raw(result.Snippet)</p>
+                    <p id="@(string.Format("resultUrl{0}", result.RankWithinPage))"><a href="@result.URL">@result.URL</a></p>
+                </dd>
+            }
+
+        </dl>
+
+
+        @Html.PageLinks(Model.PageInfo);
+
+
+    }
+    else
+    {
+        <div id="outcomeMessage">Your search for @Model.SearchTerm did not find any results.</div>
+    }
+
+}

@@ -122,7 +122,6 @@ namespace TESSReferenceImplementation.Models
                     
                     CurrentPage = pageNo;
                     
-                    //searchFacade.Dispose();
                 }
                 catch(Exception ex)
                 {

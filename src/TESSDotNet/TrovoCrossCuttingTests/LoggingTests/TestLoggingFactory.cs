@@ -16,8 +16,15 @@ namespace TrovoCrossCuttingTests.LoggingTests
         private const string PATH_TO_LOG_COPY = @"C:\Logs\LogCopy.txt";
 
         private ILogWriter _logWriter;
+        private TrovoLoggingFactory _factory;
 
         private StreamReader _logFileStreamReader;
+
+        [TestInitialize]
+        public void SetUp()
+        {
+            _factory = new TrovoLoggingFactory();
+        }
 
         [TestCleanup]
         public void TearDown()
@@ -36,7 +43,7 @@ namespace TrovoCrossCuttingTests.LoggingTests
         public void NullLoggerReturned()
         {
 
-            _logWriter = TrovoLoggingFactory.GetLogger(LoggerType.NullLogger);
+            _logWriter = _factory.GetLogger(LoggerType.NullLogger);
 
             Assert.AreEqual("TrovoCrossCutting.Logging.NullLogger.LogWriterAdaptor", _logWriter.GetType().ToString());
 
@@ -46,7 +53,7 @@ namespace TrovoCrossCuttingTests.LoggingTests
         public void EnterpriseLoggerReturned()
         {
 
-            _logWriter = TrovoLoggingFactory.GetLogger(LoggerType.EnterpriseLibrary5Logger);
+            _logWriter = _factory.GetLogger(LoggerType.EnterpriseLibrary5Logger);
 
             Assert.AreEqual("TrovoCrossCutting.Logging.EnterpriseLibrary5Logger.LogWriterAdaptor", _logWriter.GetType().ToString());
 
@@ -55,7 +62,7 @@ namespace TrovoCrossCuttingTests.LoggingTests
         [TestMethod]
         public void Log4NetLoggerReturned()
         {
-            _logWriter = TrovoLoggingFactory.GetLogger(LoggerType.Log4Net);
+            _logWriter = _factory.GetLogger(LoggerType.Log4Net);
             Assert.AreEqual("TrovoCrossCutting.Logging.Log4NetLogger.LogWriterAdaptor", _logWriter.GetType().ToString());
         }
 
@@ -63,7 +70,7 @@ namespace TrovoCrossCuttingTests.LoggingTests
         [TestMethod]
         public void SimpleLoggingTest()
         {
-            base.LogWriter = TrovoLoggingFactory.GetLogger(LoggerType.EnterpriseLibrary5Logger);
+            base.LogWriter = _factory.GetLogger(LoggerType.EnterpriseLibrary5Logger);
 
             base.generateLogEntry("TestLoggingFactory_SimpleLoggingTest_Title",
                                     "TestLoggingFactory_SimpleLoggingTest_Message",

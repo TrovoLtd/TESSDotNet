@@ -5,10 +5,10 @@ using TrovoCrossCutting.Logging.Enumerations;
 
 namespace TrovoCrossCutting.Logging
 {
-    public static class TrovoLoggingFactory
+    public class TrovoLoggingFactory
     {
 
-        public static ILogWriter GetLogger(LoggerType type)
+        public ILogWriter GetLogger(LoggerType type)
         {
             switch(type)
             {
