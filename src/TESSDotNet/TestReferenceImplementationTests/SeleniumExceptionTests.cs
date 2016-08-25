@@ -19,7 +19,12 @@ namespace TESSReferenceImplementationTests
         [ClassInitialize]
         public static void ClassInitialise(TestContext context)
         {
-            _driver = new FirefoxDriver();
+
+            FirefoxProfile profile = new FirefoxProfile();
+            profile.SetPreference("browser.startup.page", 0);
+            profile.SetPreference("browser.startup.homepage_override.mstone", "ignore");
+
+            _driver = new FirefoxDriver(profile);
             _driver.Navigate().GoToUrl(Properties.Settings.Default.baseTestUrl);
 
             _searchBoxId = Properties.Settings.Default.searchBoxId;
