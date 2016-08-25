@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GSP VER="3.2">
+  <TM>0.261088</TM>
+  <Q>communication</Q>
+  <PARAM js_escaped_value="google-csbe" name="client" original_value="google-csbe" url_escaped_value="google-csbe" value="google-csbe"></PARAM>
+  <PARAM js_escaped_value="xml_no_dtd" name="output" original_value="xml_no_dtd" url_escaped_value="xml_no_dtd" value="xml_no_dtd"></PARAM>
+  <PARAM js_escaped_value="002206009437565740511:m1b764ynfvk" name="cx" original_value="002206009437565740511%3Am1b764ynfvk" url_escaped_value="002206009437565740511%3Am1b764ynfvk" value="002206009437565740511:m1b764ynfvk"></PARAM>
+  <PARAM js_escaped_value="communication" name="q" original_value="communication" url_escaped_value="communication" value="communication"></PARAM>
+  <PARAM js_escaped_value="10" name="num" original_value="10" url_escaped_value="10" value="10"></PARAM>
+  <PARAM js_escaped_value="0" name="start" original_value="0" url_escaped_value="0" value="0"></PARAM>
+  <PARAM js_escaped_value="AELymgX4O0tzKYXmcBuxyFDqDI7ez3qTK-YWuK4jM_zqivhHmoquf5rfN9gVQIQpkH5fUcpo4j9_yYyH2LOTM3Gk508bVsKTQM2EL-YYZtOe0j_Pe9lE0VAngIDxs6RTHTSnHg31vM8DdkFjEHowEl3JuCm0fG4F0kbeTEb2-L__uDiBm7UmsmfIRtMbjrbXRL61US0JzFRrAUaIOLiYjZ4OsiKNZq1htA" name="adkw" original_value="AELymgX4O0tzKYXmcBuxyFDqDI7ez3qTK-YWuK4jM_zqivhHmoquf5rfN9gVQIQpkH5fUcpo4j9_yYyH2LOTM3Gk508bVsKTQM2EL-YYZtOe0j_Pe9lE0VAngIDxs6RTHTSnHg31vM8DdkFjEHowEl3JuCm0fG4F0kbeTEb2-L__uDiBm7UmsmfIRtMbjrbXRL61US0JzFRrAUaIOLiYjZ4OsiKNZq1htA" url_escaped_value="AELymgX4O0tzKYXmcBuxyFDqDI7ez3qTK-YWuK4jM_zqivhHmoquf5rfN9gVQIQpkH5fUcpo4j9_yYyH2LOTM3Gk508bVsKTQM2EL-YYZtOe0j_Pe9lE0VAngIDxs6RTHTSnHg31vM8DdkFjEHowEl3JuCm0fG4F0kbeTEb2-L__uDiBm7UmsmfIRtMbjrbXRL61US0JzFRrAUaIOLiYjZ4OsiKNZq1htA" value="AELymgX4O0tzKYXmcBuxyFDqDI7ez3qTK-YWuK4jM_zqivhHmoquf5rfN9gVQIQpkH5fUcpo4j9_yYyH2LOTM3Gk508bVsKTQM2EL-YYZtOe0j_Pe9lE0VAngIDxs6RTHTSnHg31vM8DdkFjEHowEl3JuCm0fG4F0kbeTEb2-L__uDiBm7UmsmfIRtMbjrbXRL61US0JzFRrAUaIOLiYjZ4OsiKNZq1htA"></PARAM>
+  <PARAM js_escaped_value="en" name="hl" original_value="en" url_escaped_value="en" value="en"></PARAM>
+  <PARAM js_escaped_value="UTF-8" name="oe" original_value="UTF-8" url_escaped_value="UTF-8" value="UTF-8"></PARAM>
+  <PARAM js_escaped_value="UTF-8" name="ie" original_value="UTF-8" url_escaped_value="UTF-8" value="UTF-8"></PARAM>
+  <PARAM js_escaped_value="0" name="boostcse" original_value="0" url_escaped_value="0" value="0"></PARAM>
+  <Context>
+    <title>Trovo Site Search</title>
+    <total_results>0</total_results>
+    <Facet>
+      <FacetItem>
+        <label>science</label>
+        <count>0</count>
+        <anchor_text>Science</anchor_text>
+        <label_op>more</label_op>
+      </FacetItem>
+    </Facet>
+  </Context>
+  <RES EN="10" SN="1">
+    <M>6260</M>
+    <FI></FI>
+    <NB>
+      <NU>/custom?q=communication&amp;client=google-csbe&amp;cx=002206009437565740511:m1b764ynfvk&amp;hl=en&amp;boostcse=0&amp;output=xml_no_dtd&amp;ie=UTF-8&amp;oe=UTF-8&amp;prmd=ivnsbp&amp;ei=r8B6VOS-LcHoaPD7gvgP&amp;start=10&amp;sa=N</NU>
+    </NB>
+    <RG SIZE="11" START="1"></RG>
+    <RG START="1" SIZE="1"></RG>
+    <R N="1">
+      <U>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/stories/from_calculation_to_communication</U>
+      <UE>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/stories/from_calculation_to_communication</UE>
+      <T>From calculation to &lt;b&gt;communication&lt;/b&gt;</T>
+      <RK>0</RK>
+      <S></S>
+      <LANG>un</LANG>
+      <SL_RESULTS>
+        <SL_MAIN>
+          <T>
+            From calculation to <em>communication</em>
+          </T>
+          <U>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/stories/from_calculation_to_communication</U>
+          <BODY_LINE></BODY_LINE>
+        </SL_MAIN>
+      </SL_RESULTS>
+    </R>
+    <RG SIZE="1" START="2"></RG>
+    <R N="2">
+      <U>http://www.sciencemuseum.org.uk/visitmuseum/Plan_your_visit/exhibitions/information_age.aspx</U>
+      <UE>http://www.sciencemuseum.org.uk/visitmuseum/Plan_your_visit/exhibitions/information_age.aspx</UE>
+      <T>Information Age</T>
+      <RK>0</RK>
+      <S>
+        More than 200 years of innovation in &lt;b&gt;communication&lt;/b&gt; and information &lt;br&gt;
+        technologies are celebrated in Information Age: Six Networks That Changed Our &lt;br&gt;
+        World,&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/ImageHandler.ashx?image=%7BDECD1C6A-1203-41B1-A07E-9A70BBCA15E9%7D&amp;height=392&amp;width=800&amp;crop=true"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="321"/>
+          <Attribute name="height" value="157"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcR3WUtYjUCCBVWCaDS0JyM5axOfzPMBlTpH5zMdzPUlTWxO928E3kzVMOdr"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="IHdZ1U65R1QJ" SZ="61k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="3"></RG>
+    <R N="3">
+      <U>http://www.britishmuseum.org/explore/themes/money/communicating_through_coins.aspx</U>
+      <UE>http://www.britishmuseum.org/explore/themes/money/communicating_through_coins.aspx</UE>
+      <T>British Museum - &lt;b&gt;Communicating&lt;/b&gt; through coins</T>
+      <RK>0</RK>
+      <S>
+        &lt;b&gt;Communicating&lt;/b&gt; through coins. Most written records from the ancient world have &lt;br&gt;
+        been lost or destroyed. As coins are mass produced and durable, they survive&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="og:title" value="Communicating through coins"/>
+          <Attribute name="og:type" value="website"/>
+          <Attribute name="og:url" value="http://www.britishmuseum.org/explore/themes/money/communicating_through_coins.aspx"/>
+          <Attribute name="og:site_name" value="British Museum"/>
+          <Attribute name="og:description" value="."/>
+          <Attribute name="og:locale" value="en_GB"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.britishmuseum.org/images/themes_coin_gandhara_01238852_624x352.jpg"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="299"/>
+          <Attribute name="height" value="168"/>
+          <Attribute name="src" value="http://t0.gstatic.com/images?q=tbn:ANd9GcTm_2gsDmAJbeEUEEWY2Is1IF5LfO1nC1wu1UlY_AxhDjFL_SYOULT18sMh"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="93-20ILVn7UJ" SZ="30k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="4"></RG>
+    <R N="4">
+      <U>http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2014/08/Information%20Age.aspx</U>
+      <UE>http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2014/08/Information%2520Age.aspx</UE>
+      <T>Science Museum to launch landmark &lt;b&gt;communications&lt;/b&gt; gallery &lt;b&gt;...&lt;/b&gt;</T>
+      <RK>0</RK>
+      <BYLINEDATE>1407913200</BYLINEDATE>
+      <S>
+        13 Aug 2014 &lt;b&gt;...&lt;/b&gt; This October the Science Museum will launch the first permanent gallery in the &lt;br&gt;
+        UK dedicated to the history of information and &lt;b&gt;communication&lt;/b&gt;&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="rating" value="safe for all"/>
+          <Attribute name="dc.type" value="webpage"/>
+          <Attribute name="dc.title" value="Science Museum to launch landmark communications gallery"/>
+          <Attribute name="dc.description" value="Information Age: Six Networks That Changed Our World &amp;nbsp;Opens on 25 Octo"/>
+          <Attribute name="dc.date" value="2012-02-21"/>
+          <Attribute name="dc.identifier" value="http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2014/08/Information Age.aspx"/>
+          <Attribute name="dc.coverage" value="uk"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="jGmJRBOJDwsJ" SZ="33k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="5"></RG>
+    <R N="5">
+      <U>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/stories/from_calculation_to_communication</U>
+      <UE>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/stories/from_calculation_to_communication</UE>
+      <T>From calculation to &lt;b&gt;communication&lt;/b&gt;</T>
+      <RK>0</RK>
+      <S>
+        The 21st century world has an extension that we call cyberspace, a rich &lt;br&gt;
+        environment of &lt;b&gt;communication&lt;/b&gt;, information and entertainment that anyone can &lt;br&gt;
+        access&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/HoMImages/Components/1088/108829_3.png"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="193"/>
+          <Attribute name="height" value="261"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcSXVmYRTrHFq2JEgbpzpHxxKXOJaE_r10yory6154io0d7zz1ID5i8eXNwU"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="tyQOOBTa74UJ" SZ="68k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="6"></RG>
+    <R N="6">
+      <U>http://www.sciencemuseum.org.uk/whoami/findoutmore/yourbrain/howdoesyourbrainwork/howdoesyournervoussystemwork/howdoneuronscommunicate.aspx</U>
+      <UE>http://www.sciencemuseum.org.uk/whoami/findoutmore/yourbrain/howdoesyourbrainwork/howdoesyournervoussystemwork/howdoneuronscommunicate.aspx</UE>
+      <T>How do neurons &lt;b&gt;communicate&lt;/b&gt;?</T>
+      <RK>0</RK>
+      <S>
+        Most neurons &lt;b&gt;communicate&lt;/b&gt; with others by releasing one of over 50 different &lt;br&gt;
+        types of neurotransmitter. Each neurotransmitter fits on to its receptor on the &lt;br&gt;
+        surface&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="author" value="Science museum"/>
+          <Attribute name="rating" value="safe for all"/>
+          <Attribute name="dc.type" value="webpage"/>
+          <Attribute name="dc.format" value="text/xhtml"/>
+          <Attribute name="dc.title" value="How do neurons communicate?"/>
+          <Attribute name="dc.publisher" value="NMSI / Science Museum"/>
+          <Attribute name="dc.date" value="2010-04-19"/>
+          <Attribute name="dc.language" value="en-gb"/>
+          <Attribute name="dc.identifier" value="http://www.sciencemuseum.org.uk/WhoAmI/FindOutMore/Yourbrain/Howdoesyourbrainwork/Howdoesyournervoussystemwork/Howdoneuronscommunicate.aspx"/>
+          <Attribute name="dc.coverage" value="uk"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="ZJoniF_EwicJ" SZ="23k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="7"></RG>
+    <R N="7">
+      <U>http://www.britishmuseum.org/explore/highlights/highlight_objects/pe_mla/d/dr_dees_magic.aspx</U>
+      <UE>http://www.britishmuseum.org/explore/highlights/highlight_objects/pe_mla/d/dr_dees_magic.aspx</UE>
+      <T>British Museum - Dr Dee&amp;#39;s magic</T>
+      <RK>0</RK>
+      <S>
+        The British Museum has a number of objects associated with the Elizabethan &lt;br&gt;
+        mathematician, astrologer and magician John Dee (1527-1608/9). After his death&lt;br&gt;
+        &amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.britishmuseum.org/images/ps326416_m.jpg"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="180"/>
+          <Attribute name="height" value="180"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcRtRTq3MSBv9rUzehDlGM9dojzDVEI8PiL-F0qSxtoSdcDyQ-rn_QHlrgLr"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="5R4T-aahO5YJ" SZ="31k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="8"></RG>
+    <R N="8">
+      <U>http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2014/10/Queen%20visit.aspx</U>
+      <UE>http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2014/10/Queen%2520visit.aspx</UE>
+      <T>Her Majesty The Queen celebrates Information Age by sending her &lt;b&gt;...&lt;/b&gt;</T>
+      <RK>0</RK>
+      <BYLINEDATE>1414134000</BYLINEDATE>
+      <S>
+        24 Oct 2014 &lt;b&gt;...&lt;/b&gt; Information Age: Six Networks That Changed Our World is the first museum &lt;br&gt;
+        gallery dedicated to the history of information and &lt;b&gt;communication&lt;/b&gt;&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="rating" value="safe for all"/>
+          <Attribute name="dc.type" value="webpage"/>
+          <Attribute name="dc.title" value="Her Majesty The Queen celebrates Information Age by sending her first tweet"/>
+          <Attribute name="dc.description" value="Her Majesty The Queen today opened the new Information Age gallery at the S"/>
+          <Attribute name="dc.date" value="2012-02-21"/>
+          <Attribute name="dc.identifier" value="http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2014/10/Queen visit.aspx"/>
+          <Attribute name="dc.coverage" value="uk"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="z_jh1GArwnYJ" SZ="30k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="9"></RG>
+    <R N="9">
+      <U>http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2012/04/HLF%20Award.aspx</U>
+      <UE>http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2012/04/HLF%2520Award.aspx</UE>
+      <T>Science Museum wins £6 million Heritage Lottery Fund support &lt;b&gt;...&lt;/b&gt;</T>
+      <RK>0</RK>
+      <BYLINEDATE>1333522800</BYLINEDATE>
+      <S>
+        4 Apr 2012 &lt;b&gt;...&lt;/b&gt; Showcasing the Science Museum&amp;#39;s world class collections, Making Modern &lt;br&gt;
+        &lt;b&gt;Communications&lt;/b&gt; will tell the story of 200 years of innovation in&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="rating" value="safe for all"/>
+          <Attribute name="dc.type" value="webpage"/>
+          <Attribute name="dc.title" value="Science Museum wins £6 million Heritage Lottery Fund support"/>
+          <Attribute name="dc.description" value="Science Museum wins £6 million Heritage Lottery Fund support The Science Mu"/>
+          <Attribute name="dc.date" value="2012-02-21"/>
+          <Attribute name="dc.identifier" value="http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2012/04/HLF Award.aspx"/>
+          <Attribute name="dc.coverage" value="uk"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="twO0Kafwy1kJ" SZ="17k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="10"></RG>
+    <R N="10">
+      <U>http://www.britishmuseum.org/about_us/news_and_press.aspx</U>
+      <UE>http://www.britishmuseum.org/about_us/news_and_press.aspx</UE>
+      <T>British Museum - News and press releases</T>
+      <RK>0</RK>
+      <S>
+        Contacts. For more information and images please contact the British Museum &lt;br&gt;
+        Press Office: +44 (0)20 7323 8394 / 8583 &lt;b&gt;communications&lt;/b&gt;@britishmuseum.org&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="og:title" value="News and press releases"/>
+          <Attribute name="og:type" value="website"/>
+          <Attribute name="og:url" value="http://www.britishmuseum.org/about_us/news_and_press.aspx"/>
+          <Attribute name="og:site_name" value="British Museum"/>
+          <Attribute name="og:description" value="British Museum news and press releases"/>
+          <Attribute name="og:locale" value="en_GB"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.britishmuseum.org/images/AN00740148_304x176.jpg"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="243"/>
+          <Attribute name="height" value="140"/>
+          <Attribute name="src" value="http://t0.gstatic.com/images?q=tbn:ANd9GcTy-zh8wHb17wKW78_VOy1dbhFWw2XKIClDSpdDtXH8QvxTKbOs00kGcmGc"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="_IebgyVofkUJ" SZ="30k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="11"></RG>
+    <R N="11">
+      <U>http://www.sciencemuseum.org.uk/about_us/smg.aspx</U>
+      <UE>http://www.sciencemuseum.org.uk/about_us/smg.aspx</UE>
+      <T>Science Museum Group - About us - Science Museum</T>
+      <RK>0</RK>
+      <S>
+        Science Museum Group. The Science Museum Group is devoted to the history &lt;br&gt;
+        and contemporary practice of science, medicine, technology, industry and media.
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="rating" value="safe for all"/>
+          <Attribute name="dc.type" value="webpage"/>
+          <Attribute name="dc.format" value="text/xhtml"/>
+          <Attribute name="dc.title" value="Science Museum Group"/>
+          <Attribute name="dc.description" value="Find out more about the Science Museum Group"/>
+          <Attribute name="dc.publisher" value="NMSI / Science Museum"/>
+          <Attribute name="dc.date" value="2007-01-05"/>
+          <Attribute name="dc.language" value="en-GB"/>
+          <Attribute name="dc.identifier" value="http://www.sciencemuseum.org.uk/about_us/smg.aspx"/>
+          <Attribute name="dc.coverage" value="uk"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/~/media/Images/Modules/landing_page/one_and_a_half_column_width/corporate_info.jpg?mw=271"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="216"/>
+          <Attribute name="height" value="143"/>
+          <Attribute name="src" value="http://t1.gstatic.com/images?q=tbn:ANd9GcT7tDqQ3QZJ6CH15RO0i15dXRqnoyukQQGx5ACJy2qnLZLE4vK2KHYeHH8"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="NBAfj0ayAF0J" SZ="14k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+  </RES>
+</GSP>

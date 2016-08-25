@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GSP VER="3.2">
+  <TM>0.269531</TM>
+  <Q>criminal</Q>
+  <PARAM name="cx" value="002206009437565740511:m1b764ynfvk" original_value="002206009437565740511%3Am1b764ynfvk" url_escaped_value="002206009437565740511%3Am1b764ynfvk" js_escaped_value="002206009437565740511:m1b764ynfvk"></PARAM>
+  <PARAM name="client" value="google-csbe" original_value="google-csbe" url_escaped_value="google-csbe" js_escaped_value="google-csbe"></PARAM>
+  <PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd" url_escaped_value="xml_no_dtd" js_escaped_value="xml_no_dtd"></PARAM>
+  <PARAM name="q" value="criminal" original_value="criminal" url_escaped_value="criminal" js_escaped_value="criminal"></PARAM>
+  <PARAM name="adkw" value="AELymgV7K0EYvcyThTNTspr2uFdH2fj9PGbpZ7fnpW2gRsZAg4Bu7zNcr_pKGh4UakB8OyYAPHdW1nn4CHtPirKYuEDC55F3yeATxadwILbFoaezzSB9m77uvpL4bUfoj9bhGjG3F65nnzbk2poVQcbb0AdCmYh7ZoMA_45_TwKIvhhrsk8AV8tMtikiNB8YpBzv6kQ1TEm5jvMEEZCTtaXBBxAwgmUJFw" original_value="AELymgV7K0EYvcyThTNTspr2uFdH2fj9PGbpZ7fnpW2gRsZAg4Bu7zNcr_pKGh4UakB8OyYAPHdW1nn4CHtPirKYuEDC55F3yeATxadwILbFoaezzSB9m77uvpL4bUfoj9bhGjG3F65nnzbk2poVQcbb0AdCmYh7ZoMA_45_TwKIvhhrsk8AV8tMtikiNB8YpBzv6kQ1TEm5jvMEEZCTtaXBBxAwgmUJFw" url_escaped_value="AELymgV7K0EYvcyThTNTspr2uFdH2fj9PGbpZ7fnpW2gRsZAg4Bu7zNcr_pKGh4UakB8OyYAPHdW1nn4CHtPirKYuEDC55F3yeATxadwILbFoaezzSB9m77uvpL4bUfoj9bhGjG3F65nnzbk2poVQcbb0AdCmYh7ZoMA_45_TwKIvhhrsk8AV8tMtikiNB8YpBzv6kQ1TEm5jvMEEZCTtaXBBxAwgmUJFw" js_escaped_value="AELymgV7K0EYvcyThTNTspr2uFdH2fj9PGbpZ7fnpW2gRsZAg4Bu7zNcr_pKGh4UakB8OyYAPHdW1nn4CHtPirKYuEDC55F3yeATxadwILbFoaezzSB9m77uvpL4bUfoj9bhGjG3F65nnzbk2poVQcbb0AdCmYh7ZoMA_45_TwKIvhhrsk8AV8tMtikiNB8YpBzv6kQ1TEm5jvMEEZCTtaXBBxAwgmUJFw"></PARAM>
+  <PARAM name="hl" value="en" original_value="en" url_escaped_value="en" js_escaped_value="en"></PARAM>
+  <PARAM name="oe" value="UTF-8" original_value="UTF-8" url_escaped_value="UTF-8" js_escaped_value="UTF-8"></PARAM>
+  <PARAM name="ie" value="UTF-8" original_value="UTF-8" url_escaped_value="UTF-8" js_escaped_value="UTF-8"></PARAM>
+  <PARAM name="boostcse" value="0" original_value="0" url_escaped_value="0" js_escaped_value="0"></PARAM>
+  <SEARCH_MODES>
+    <PROMOTED_MODES></PROMOTED_MODES>
+    <UNPROMOTED_MODES></UNPROMOTED_MODES>
+    <MORE_TEXT>More</MORE_TEXT>
+    <LESS_TEXT>Fewer</LESS_TEXT>
+  </SEARCH_MODES>
+  <Context>
+    <title>Trovo Site Search</title>
+  </Context>
+  <RES SN="1" EN="3">
+    <M>3</M>
+    <XT></XT>
+    <RG START="1" SIZE="3"></RG>
+    <RG START="1" SIZE="1"></RG>
+    <!--R N="1">
+      <U>http://www.trovo.co.uk/DemoContent/Oliver_Twist/Sikes_Meets_His_End.aspx</U>
+      <UE>http://www.trovo.co.uk/DemoContent/Oliver_Twist/Sikes_Meets_His_End.aspx</UE>
+      <T>Sikes Meets His End - Trovo</T>
+      <RK>0</RK>
+      <S>&lt;b&gt;...&lt;/b&gt; man crushing and striving with his neighbor, and all panting with impatience to &lt;br&gt;  get near the door, and look upon the &lt;b&gt;criminal&lt;/b&gt; as the officers brought him out.</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.subject" value="Crime"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="14k" CID="SpfgxMZFeJYJ"/>
+        <RT/>
+      </HAS>
+    </R -->
+    <R N="1">
+      <U>http://www.trovo.co.uk/DemoContent/Oliver_Twist/Sikes_Meets_His_End.aspx</U>
+      <UE>http://www.trovo.co.uk/DemoContent/Oliver_Twist/Sikes_Meets_His_End.aspx</UE>
+      <T>Sikes Meets His End - Trovo</T>
+      <RK>0</RK>
+      <S>&lt;b&gt;...&lt;/b&gt; man crushing and striving with his neighbor, and all panting with impatience to &lt;br&gt;  get near the door, and look upon the &lt;b&gt;criminal&lt;/b&gt; as the officers brought him out.</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <SL_RESULTS>
+        <SL_MAIN>
+          <T>
+            Large <em>Hadron</em> Collider
+          </T>
+          <U>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/large_hadron_collider</U>
+          <!--IMAGE>
+            <IMAGE_WIDTH>40</IMAGE_WIDTH>
+            <IMAGE_HEIGHT>40</IMAGE_HEIGHT>
+            <IMAGE_SOURCE>//images1-prose-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.sciencemuseum.org.uk/~/media/ScM/explore_our_collection/lhc/inside_the_lhc/Alice-detector-1_960px.jpg&amp;container=prose&amp;gadget=a&amp;rewriteMime=image/*&amp;resize_w=40&amp;resize_h=40&amp;no_expand=1</IMAGE_SOURCE>
+            <IMAGE_SOURCE_ALT>//images1-prose-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.sciencemuseum.org.uk/~/media/ScM/explore_our_collection/lhc/inside_the_lhc/Alice-detector-1_960px.jpg&amp;container=prose&amp;gadget=a&amp;rewriteMime=image/*&amp;resize_w=60&amp;resize_h=60&amp;no_expand=1</IMAGE_SOURCE_ALT>
+          </IMAGE>
+          <BODY_LINE>
+            <BLOCK>
+              <T>Discover the most powerful particle accelerator ever built and the history of particle science.</T>
+              <U></U>
+              <L></L>
+            </BLOCK>
+          </BODY_LINE-->
+          <BODY_LINE></BODY_LINE>
+        </SL_MAIN>
+      </SL_RESULTS>
+      <!--PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.subject" value="Crime"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="14k" CID="SpfgxMZFeJYJ"/>
+        <RT/>
+      </HAS-->
+    </R>
+    <RG START="2" SIZE="1"></RG>
+    <R N="2">
+      <U>http://www.trovo.co.uk/DemoContent/A_Tale_Of_Two_Cities/An_Enemy_To_The_Republic.aspx</U>
+      <UE>http://www.trovo.co.uk/DemoContent/A_Tale_Of_Two_Cities/An_Enemy_To_The_Republic.aspx</UE>
+      <T>An Enemy To The Republic - Trovo</T>
+      <RK>0</RK>
+      <S>Was that &lt;b&gt;criminal&lt;/b&gt; in the eyes of the Republic? The populace cried &lt;br&gt;  enthusiastically, &amp;quot;No!&amp;quot; and the President rang his bell to quiet them. Which it did &lt;br&gt;  not, for they &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.subject" value="Crime"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="17k" CID="mQPBRJB22IEJ"/>
+        <RT/>
+      </HAS>
+    </R>
+    <RG START="3" SIZE="1"></RG>
+    <R N="3" MIME="application/pdf">
+      <U>http://www.trovo.co.uk/DemoContent/Bleak_House/The_Strangest_Thing_Of_All.aspx</U>
+      <UE>http://www.trovo.co.uk/DemoContent/Bleak_House/The_Strangest_Thing_Of_All.aspx</UE>
+      <T>The Strangest Thing Of All - Trovo</T>
+      <RK>0</RK>
+      <S>Jo&amp;#39;s ideas of a &lt;b&gt;criminal&lt;/b&gt; trial, or a judge, or a bishop, or a government, or that &lt;br&gt;  inestimable jewel to him (if he only knew it) the Constitution, should be strange!</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.subject" value="Bureaucracy"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="21k" CID="GsrjEnEQke4J"/>
+        <RT/>
+      </HAS>
+    </R>
+    
+  </RES>
+</GSP>

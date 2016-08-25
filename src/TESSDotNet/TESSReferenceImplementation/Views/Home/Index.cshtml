@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>SearchResults</h2>
+
+@using (@Html.BeginForm("Index", "SearchResults", FormMethod.Get))
+{
+
+    <p>
+        @Html.TextBox("q")
+        <input type="hidden" id="pageNo" name="pageNo" value="1" />
+        <input type="submit" id="searchBoxSubmit" value="Search" />
+    </p>
+}

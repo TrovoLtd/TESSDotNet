@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GSP VER="3.2">
+  <TM>0.316457</TM>
+  <Q>food</Q>
+  <PARAM js_escaped_value="google-csbe" name="client" original_value="google-csbe" url_escaped_value="google-csbe" value="google-csbe"></PARAM>
+  <PARAM js_escaped_value="xml_no_dtd" name="output" original_value="xml_no_dtd" url_escaped_value="xml_no_dtd" value="xml_no_dtd"></PARAM>
+  <PARAM js_escaped_value="002669545989986054425:mzawhzod49a" name="cx" original_value="002669545989986054425:mzawhzod49a" url_escaped_value="002669545989986054425%3Amzawhzod49a" value="002669545989986054425:mzawhzod49a"></PARAM>
+  <PARAM js_escaped_value="food" name="q" original_value="food" url_escaped_value="food" value="food"></PARAM>
+  <PARAM js_escaped_value="10" name="num" original_value="10" url_escaped_value="10" value="10"></PARAM>
+  <PARAM js_escaped_value="0" name="start" original_value="0" url_escaped_value="0" value="0"></PARAM>
+  <PARAM js_escaped_value="AELymgVGYHdvwLae18Dk7qpJ1c6uXv97XFBBGhY6T9zf6v18QdX4CtxYzY_VGMhc-MZZbBpNZe1Gf7-DFt9qjMMWNRABdvCXvqyU_eM7F1qN5RXrKk2CAOk" name="adkw" original_value="AELymgVGYHdvwLae18Dk7qpJ1c6uXv97XFBBGhY6T9zf6v18QdX4CtxYzY_VGMhc-MZZbBpNZe1Gf7-DFt9qjMMWNRABdvCXvqyU_eM7F1qN5RXrKk2CAOk" url_escaped_value="AELymgVGYHdvwLae18Dk7qpJ1c6uXv97XFBBGhY6T9zf6v18QdX4CtxYzY_VGMhc-MZZbBpNZe1Gf7-DFt9qjMMWNRABdvCXvqyU_eM7F1qN5RXrKk2CAOk" value="AELymgVGYHdvwLae18Dk7qpJ1c6uXv97XFBBGhY6T9zf6v18QdX4CtxYzY_VGMhc-MZZbBpNZe1Gf7-DFt9qjMMWNRABdvCXvqyU_eM7F1qN5RXrKk2CAOk"></PARAM>
+  <PARAM js_escaped_value="en" name="hl" original_value="en" url_escaped_value="en" value="en"></PARAM>
+  <PARAM js_escaped_value="UTF-8" name="oe" original_value="UTF-8" url_escaped_value="UTF-8" value="UTF-8"></PARAM>
+  <PARAM js_escaped_value="UTF-8" name="ie" original_value="UTF-8" url_escaped_value="UTF-8" value="UTF-8"></PARAM>
+  <PARAM js_escaped_value="0" name="boostcse" original_value="0" url_escaped_value="0" value="0"></PARAM>
+  <Context>
+    <title>Leicester City Council Search</title>
+    <total_results>0</total_results>
+    <Facet>
+      <FacetItem>
+        <label>visitleicester</label>
+        <count>0</count>
+        <anchor_text>visitleicester</anchor_text>
+        <label_op>more</label_op>
+      </FacetItem>
+    </Facet>
+  </Context>
+  <RES EN="10" SN="1">
+    <M>8680</M>
+    <NB>
+      <NU>/custom?q=food&amp;client=google-csbe&amp;cx=002669545989986054425:mzawhzod49a&amp;hl=en&amp;boostcse=0&amp;output=xml_no_dtd&amp;ie=UTF-8&amp;oe=UTF-8&amp;prmd=ivnsmelp&amp;ei=V4YKVerEAoHyUNP6gtgD&amp;start=10&amp;sa=N</NU>
+    </NB>
+    <RG SIZE="10" START="1"></RG>
+    <RG SIZE="1" START="1"></RG>
+    <R N="1">
+      <U>http://www.leicester.gov.uk/food</U>
+      <UE>http://www.leicester.gov.uk/food</UE>
+      <T>&lt;b&gt;Food&lt;/b&gt; Safety - Leicester City Council</T>
+      <RK>0</RK>
+      <S>
+        In 2013 Leicester City Council&amp;#39;s &lt;b&gt;Food&lt;/b&gt; Safety Team carried out a programme of &lt;br&gt;
+        meat products testing. The report on the results can be downloaded from here.
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_mzawhzod49a</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.coverage" value="UK"/>
+          <Attribute name="dc.date.created" value="2007-01-02T12:33:33Z"/>
+          <Attribute name="dc.date.modified" value="2014-03-11T09:15:17Z"/>
+          <Attribute name="dc.description" value="SmileSafe - Putting Consumers in the Picture Eating out at a food business in Leicester? Search for the latest Food Safety Report and check the SmileSafe rating. You can also check the recent enforcement activity taken against food businesses in the City. This includes details of prosecutions and Hygiene Emergency Prohibition Notices (temporary food business closures). Setting up a Food Business All food businesses must be registered before opening and any significant changes in the business..."/>
+          <Attribute name="dc.format" value="Text/html"/>
+          <Attribute name="dc.identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="dc.language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="dc.publisher" value="Leicester City Council, City Hall, 115 Charles Street, Leicester, LE1 1FZ. customer.services@leicester.gov.uk"/>
+          <Attribute name="dc.rights" value="Reproduction by Permission Only"/>
+          <Attribute name="dc.rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="dc.status" value="Version 1.0. For publication"/>
+          <Attribute name="dc.title" value="Food Safety"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="date.created" value="2007-01-02T12:33:33Z"/>
+          <Attribute name="date.modified" value="2014-03-11T09:15:17Z"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, City Hall, 115 Charles Street, Leicester, LE1 1FZ. customer.services@leicester.gov.uk"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="status" value="Version 1.0. For publication"/>
+          <Attribute name="title" value="Food Safety"/>
+          <Attribute name="accessibility" value="(pics-1.1 &#39;http://www.icra.org/ratingsv02.html&#39; l gen true for &#39;http://www.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://secure.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://my.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1))"/>
+          <Attribute name="viewport" value="width=device-width"/>
+          <Attribute name="og:image" value="http://www.leicester.gov.uk/images/cinq-foil.jpg"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.leicester.gov.uk/images/cinq-foil.jpg"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="OWrckL_RAe4J" SZ="59k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="2"></RG>
+    <R N="2">
+      <U>http://www.leicester.gov.uk/foodplan</U>
+      <UE>http://www.leicester.gov.uk/foodplan</UE>
+      <T>Leicester&amp;#39;s &lt;b&gt;Food&lt;/b&gt; Plan - Leicester City Council</T>
+      <RK>0</RK>
+      <S>Making Leicester a healthy and sustainable &lt;b&gt;food&lt;/b&gt; city.</S>
+      <LANG>en</LANG>
+      <Label>_cse_mzawhzod49a</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.coverage" value="UK"/>
+          <Attribute name="dc.date.created" value="2014-02-21T09:11:43Z"/>
+          <Attribute name="dc.date.modified" value="2014-11-21T07:58:01Z"/>
+          <Attribute name="dc.description" value="Making Leicester a healthy and sustainable food city."/>
+          <Attribute name="dc.format" value="Text/html"/>
+          <Attribute name="dc.identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="dc.language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="dc.publisher" value="Leicester City Council, City Hall, 115 Charles Street, Leicester, LE1 1FZ. customer.services@leicester.gov.uk"/>
+          <Attribute name="dc.rights" value="Reproduction by Permission Only"/>
+          <Attribute name="dc.rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="dc.status" value="Version 1.0. For publication"/>
+          <Attribute name="dc.title" value="Leicester&#39;s Food Plan"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="date.created" value="2014-02-21T09:11:43Z"/>
+          <Attribute name="date.modified" value="2014-11-21T07:58:01Z"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, City Hall, 115 Charles Street, Leicester, LE1 1FZ. customer.services@leicester.gov.uk"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="status" value="Version 1.0. For publication"/>
+          <Attribute name="title" value="Leicester&#39;s Food Plan"/>
+          <Attribute name="accessibility" value="(pics-1.1 &#39;http://www.icra.org/ratingsv02.html&#39; l gen true for &#39;http://www.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://secure.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://my.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1))"/>
+          <Attribute name="viewport" value="width=device-width"/>
+          <Attribute name="og:image" value="http://www.leicester.gov.uk/images/cinq-foil.jpg"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.leicester.gov.uk/EasysiteWeb/getresource.axd?AssetID=218759&amp;type=custom&amp;servicetype=Inline&amp;customSizeId=4"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="153"/>
+          <Attribute name="height" value="156"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcRL7Xch1Jj7UyUpmLeriKlti2ouoHyShUJIOwd5n521BmG1SYTwD2UY7gM"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="gc9YWn33VuMJ" SZ="64k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="3"></RG>
+    <R N="3">
+      <U>http://www.leicester.gov.uk/business/business-support-advice/business-premises-workspaces/food-drink/</U>
+      <UE>http://www.leicester.gov.uk/business/business-support-advice/business-premises-workspaces/food-drink/</UE>
+      <T>&lt;b&gt;Food&lt;/b&gt; and drink - Leicester City Council</T>
+      <RK>0</RK>
+      <S>
+        Supported with funding under Leicester&amp;#39;s European Structural Funds Programme&lt;br&gt;
+        , the &lt;b&gt;Food&lt;/b&gt; Park provides 19,250 sq. ft (1,790 sq.m) of high quality &lt;b&gt;food&lt;/b&gt;&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_mzawhzod49a</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.coverage" value="UK"/>
+          <Attribute name="dc.date.created" value="2012-12-11T13:00:39Z"/>
+          <Attribute name="dc.date.modified" value="2015-02-12T10:41:17Z"/>
+          <Attribute name="dc.description" value="Food and drink"/>
+          <Attribute name="dc.format" value="Text/html"/>
+          <Attribute name="dc.identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="dc.language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="dc.publisher" value="Leicester City Council, City Hall, 115 Charles Street, Leicester, LE1 1FZ. customer.services@leicester.gov.uk"/>
+          <Attribute name="dc.rights" value="Reproduction by Permission Only"/>
+          <Attribute name="dc.rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="dc.status" value="Version 1.0. For publication"/>
+          <Attribute name="dc.title" value="Food and drink"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="date.created" value="2012-12-11T13:00:39Z"/>
+          <Attribute name="date.modified" value="2015-02-12T10:41:17Z"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, City Hall, 115 Charles Street, Leicester, LE1 1FZ. customer.services@leicester.gov.uk"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="status" value="Version 1.0. For publication"/>
+          <Attribute name="title" value="Food and drink"/>
+          <Attribute name="accessibility" value="(pics-1.1 &#39;http://www.icra.org/ratingsv02.html&#39; l gen true for &#39;http://www.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://secure.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://my.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1))"/>
+          <Attribute name="viewport" value="width=device-width"/>
+          <Attribute name="og:image" value="http://www.leicester.gov.uk/images/cinq-foil.jpg"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.leicester.gov.uk/EasysiteWeb/getresource.axd?AssetID=592494&amp;type=custom&amp;servicetype=Inline&amp;customSizeId=95"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="259"/>
+          <Attribute name="height" value="194"/>
+          <Attribute name="src" value="http://t0.gstatic.com/images?q=tbn:ANd9GcQfU0KyZjyVUQ31PcOTJJhyLiWhP43jFuuUo7cQSefMeHPKfJFNok0HwoU"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="Z6lrA197EmgJ" SZ="53k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="4"></RG>
+    <R N="4">
+      <U>http://www.visitleicester.info/food-drink-nightlife/</U>
+      <UE>http://www.visitleicester.info/food-drink-nightlife/</UE>
+      <T>&lt;b&gt;Food&lt;/b&gt;, Drink &amp;amp; Nightlife</T>
+      <RK>0</RK>
+      <S>
+        A fantastic range of restaurants offering &lt;b&gt;food&lt;/b&gt; from all over the world, whether &lt;br&gt;
+        Indian or Italian, Spanish or Greek, Chinese or Lebanese... &amp;gt; Restaurants in&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_mzawhzod49a</Label>
+      <Label>visitleicester</Label>
+      <PageMap>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.visitleicester.info/EasysiteWeb/getresource.axd?AssetID=98900&amp;type=full&amp;servicetype=Inline"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="112"/>
+          <Attribute name="height" value="112"/>
+          <Attribute name="src" value="http://t3.gstatic.com/images?q=tbn:ANd9GcSzbcq7XYuyQCz-Yp6tPSMQHeQvPcW0K6JaUGsEeA0mH2MXcUTOzvTt"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="cV_zfqDPXR0J" SZ="22k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="5"></RG>
+    <R N="5">
+      <U>https://e-forms.leicester.gov.uk/default.aspx/RenderForm/?F.Name=YUo4cPn1SaY</U>
+      <UE>https://e-forms.leicester.gov.uk/default.aspx/RenderForm/%3FF.Name%3DYUo4cPn1SaY</UE>
+      <T>Fill In</T>
+      <RK>0</RK>
+      <S>
+        This form should be completed by &lt;b&gt;food&lt;/b&gt; business operators in respect of new &lt;b&gt;food&lt;/b&gt; &lt;br&gt;
+        business establishments and received by the relevant &lt;b&gt;Food&lt;/b&gt; Authority 28 days&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_mzawhzod49a</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=1"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="Ea2_P3A1lVgJ" SZ="33k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="6"></RG>
+    <R N="6">
+      <U>http://www.visitleicester.info/food-drink-nightlife/restaurants/</U>
+      <UE>http://www.visitleicester.info/food-drink-nightlife/restaurants/</UE>
+      <T>Restaurants in Leicester</T>
+      <RK>0</RK>
+      <S>
+        Leicester has a fantastic range of restaurants offering &lt;b&gt;food&lt;/b&gt; from all over the world, &lt;br&gt;
+        whether Indian or Italian, Spanish or Greek, Chinese or Lebanese... See the&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_mzawhzod49a</Label>
+      <Label>visitleicester</Label>
+      <PageMap>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.visitleicester.info/EasysiteWeb/getresource.axd?AssetID=98719&amp;type=full&amp;servicetype=Inline"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="420"/>
+          <Attribute name="height" value="120"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcQKnR1gP6BRBg-3q7-vPyYphqZlJ6uIfOJhTddQH33ok0jjnPWCd__D0Q"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="Ve614atYjLoJ" SZ="35k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="7"></RG>
+    <R N="7">
+      <U>http://www.cabinet.leicester.gov.uk/(S(t1fziw45wvh0zr45gujmstei))/mgAi.aspx?ID=58002</U>
+      <UE>http://www.cabinet.leicester.gov.uk/(S(t1fziw45wvh0zr45gujmstei))/mgAi.aspx%3FID%3D58002</UE>
+      <T>Agenda item - &lt;b&gt;FOOD&lt;/b&gt; BANK PROVISION IN THE CITY</T>
+      <RK>0</RK>
+      <S>
+        The Director of Finance submits a report that details the provision of &lt;b&gt;food&lt;/b&gt; banks &lt;br&gt;
+        within the city, and outlines the work undertaken to identify and support the&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_mzawhzod49a</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.title" value="Agenda item - FOOD BANK PROVISION IN THE CITY"/>
+          <Attribute name="dc.description" value="Details of agenda item FOOD BANK PROVISION IN THE CITY. Meeting of Neighbourhood Services and Community Involvement Scrutiny Commission on Wednesday, 9 April 2014, 5:30 pm"/>
+          <Attribute name="dc.date" value="2014-04-09"/>
+          <Attribute name="dc.date.modified" value="2014-04-01"/>
+          <Attribute name="dc.date.created" value="2014-03-31"/>
+          <Attribute name="dc.subject" value="Government, politics and public administration"/>
+          <Attribute name="dc.subject" value="Local government"/>
+          <Attribute name="dc.subject" value="Decision making"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="-tXQE5o8tn0J" SZ="28k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="8"></RG>
+    <R N="8">
+      <U>http://www.leicester.gov.uk/your-council/policies-plans-and-strategies/environment-and-waste/leicesters-food-plan</U>
+      <UE>http://www.leicester.gov.uk/your-council/policies-plans-and-strategies/environment-and-waste/leicesters-food-plan</UE>
+      <T>Leicester&amp;#39;s &lt;b&gt;Food&lt;/b&gt; Plan - Leicester City Council</T>
+      <RK>0</RK>
+      <S>
+        The &lt;b&gt;Food&lt;/b&gt; Plan marks the start of a long term programme to make Leicester a &lt;br&gt;
+        healthy and sustainable &lt;b&gt;food&lt;/b&gt; city. This means our city will become a place where &lt;b&gt;...&lt;/b&gt;
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_mzawhzod49a</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, City Hall, 115 Charles Street, Leicester, LE1 1FZ"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="f1eaxldheHUJ" SZ="34k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="9"></RG>
+    <R N="9">
+      <U>http://www.leicester.gov.uk/your-environment/pollution-and-pests/pest-control</U>
+      <UE>http://www.leicester.gov.uk/your-environment/pollution-and-pests/pest-control</UE>
+      <T>Pest control - Leicester City Council</T>
+      <RK>0</RK>
+      <S>
+        Ants - to discourage ants: seal all sugary and sweet &lt;b&gt;foods&lt;/b&gt; in closed containers, &lt;br&gt;
+        clean up &lt;b&gt;food&lt;/b&gt; spills from the floor and seal entry points and gaps where &lt;b&gt;...&lt;/b&gt;
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_mzawhzod49a</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, City Hall, 115 Charles Street, Leicester, LE1 1FZ"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="H2wZrb9JhwEJ" SZ="37k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="10"></RG>
+    <R N="10">
+      <U>http://www.leicester.gov.uk/business/business-support-advice/speciialist-support/food-drink-sector/</U>
+      <UE>http://www.leicester.gov.uk/business/business-support-advice/speciialist-support/food-drink-sector/</UE>
+      <T>&lt;b&gt;Food&lt;/b&gt; and drink sector - Leicester City Council</T>
+      <RK>0</RK>
+      <S>
+        The &lt;b&gt;Food&lt;/b&gt; and Drink Forum Ltd will provide you with a minimum of 12 hours &lt;br&gt;
+        business support. It will provide a &lt;b&gt;food&lt;/b&gt; specialist resource to help improve your&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_mzawhzod49a</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.coverage" value="UK"/>
+          <Attribute name="dc.date.created" value="2012-12-05T11:51:35Z"/>
+          <Attribute name="dc.date.modified" value="2014-09-17T13:40:17Z"/>
+          <Attribute name="dc.description" value="Food and drink sector"/>
+          <Attribute name="dc.format" value="Text/html"/>
+          <Attribute name="dc.identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="dc.language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="dc.publisher" value="Leicester City Council, City Hall, 115 Charles Street, Leicester, LE1 1FZ. customer.services@leicester.gov.uk"/>
+          <Attribute name="dc.rights" value="Reproduction by Permission Only"/>
+          <Attribute name="dc.rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="dc.status" value="Version 1.0. For publication"/>
+          <Attribute name="dc.title" value="Food and drink sector"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="date.created" value="2012-12-05T11:51:35Z"/>
+          <Attribute name="date.modified" value="2014-09-17T13:40:17Z"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, City Hall, 115 Charles Street, Leicester, LE1 1FZ. customer.services@leicester.gov.uk"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="status" value="Version 1.0. For publication"/>
+          <Attribute name="title" value="Food and drink sector"/>
+          <Attribute name="accessibility" value="(pics-1.1 &#39;http://www.icra.org/ratingsv02.html&#39; l gen true for &#39;http://www.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://secure.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://my.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1))"/>
+          <Attribute name="viewport" value="width=device-width"/>
+          <Attribute name="og:image" value="http://www.leicester.gov.uk/images/cinq-foil.jpg"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.leicester.gov.uk/images/cinq-foil.jpg"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="N8jYSkTDJnAJ" SZ="54k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+  </RES>
+</GSP>

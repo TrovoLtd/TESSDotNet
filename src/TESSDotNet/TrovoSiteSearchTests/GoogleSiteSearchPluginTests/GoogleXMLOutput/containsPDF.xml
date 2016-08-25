@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GSP VER="3.2">
+  <TM>0.213400</TM>
+  <Q>st. georges New community</Q>
+  <PARAM name="cx" value="002206009437565740511:m1b764ynfvk" original_value="002206009437565740511%3Am1b764ynfvk" url_escaped_value="002206009437565740511%3Am1b764ynfvk" js_escaped_value="002206009437565740511:m1b764ynfvk"></PARAM>
+  <PARAM name="client" value="google-csbe" original_value="google-csbe" url_escaped_value="google-csbe" js_escaped_value="google-csbe"></PARAM>
+  <PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd" url_escaped_value="xml_no_dtd" js_escaped_value="xml_no_dtd"></PARAM>
+  <PARAM name="q" value="st. georges New community" original_value="st.+georges+New+community" url_escaped_value="st.+georges+New+community" js_escaped_value="st. georges New community"></PARAM>
+  <PARAM name="num" value="10" original_value="10" url_escaped_value="10" js_escaped_value="10"></PARAM>
+  <PARAM name="start" value="0" original_value="0" url_escaped_value="0" js_escaped_value="0"></PARAM>
+  <PARAM name="adkw" value="AELymgUoiLjtjdwD6p3tAyJKg-BrvoYC6NuOt5nJWu89caasY6uvZduwQsR-ybKxhLNeks8f39pG9eEOOoA_LSIzSua6sNJZ8sW52JaE-7SEpdl9CL9Gthpna_ua458IuRXYro5LNFYy4UItnM_ZbeF7ROUvabcEuHlFbHNl4LJbf7PWrpn1RhTlj7lZlNPnDCmBzg24f6vgjV13NDZNzMYrRBWcivZLfg" original_value="AELymgUoiLjtjdwD6p3tAyJKg-BrvoYC6NuOt5nJWu89caasY6uvZduwQsR-ybKxhLNeks8f39pG9eEOOoA_LSIzSua6sNJZ8sW52JaE-7SEpdl9CL9Gthpna_ua458IuRXYro5LNFYy4UItnM_ZbeF7ROUvabcEuHlFbHNl4LJbf7PWrpn1RhTlj7lZlNPnDCmBzg24f6vgjV13NDZNzMYrRBWcivZLfg" url_escaped_value="AELymgUoiLjtjdwD6p3tAyJKg-BrvoYC6NuOt5nJWu89caasY6uvZduwQsR-ybKxhLNeks8f39pG9eEOOoA_LSIzSua6sNJZ8sW52JaE-7SEpdl9CL9Gthpna_ua458IuRXYro5LNFYy4UItnM_ZbeF7ROUvabcEuHlFbHNl4LJbf7PWrpn1RhTlj7lZlNPnDCmBzg24f6vgjV13NDZNzMYrRBWcivZLfg" js_escaped_value="AELymgUoiLjtjdwD6p3tAyJKg-BrvoYC6NuOt5nJWu89caasY6uvZduwQsR-ybKxhLNeks8f39pG9eEOOoA_LSIzSua6sNJZ8sW52JaE-7SEpdl9CL9Gthpna_ua458IuRXYro5LNFYy4UItnM_ZbeF7ROUvabcEuHlFbHNl4LJbf7PWrpn1RhTlj7lZlNPnDCmBzg24f6vgjV13NDZNzMYrRBWcivZLfg"></PARAM>
+  <PARAM name="hl" value="en" original_value="en" url_escaped_value="en" js_escaped_value="en"></PARAM>
+  <PARAM name="oe" value="UTF-8" original_value="UTF-8" url_escaped_value="UTF-8" js_escaped_value="UTF-8"></PARAM>
+  <PARAM name="ie" value="UTF-8" original_value="UTF-8" url_escaped_value="UTF-8" js_escaped_value="UTF-8"></PARAM>
+  <PARAM name="boostcse" value="0" original_value="0" url_escaped_value="0" js_escaped_value="0"></PARAM>
+  <Context>
+    <title>Trovo Site Search</title>
+    <Facet>
+      <FacetItem>
+        <label>whatson</label>
+        <anchor_text>whatson</anchor_text>
+      </FacetItem>
+    </Facet>
+    <Facet>
+      <FacetItem>
+        <label>cabinet</label>
+        <anchor_text>cabinet</anchor_text>
+      </FacetItem>
+    </Facet>
+    <Facet>
+      <FacetItem>
+        <label>jobs</label>
+        <anchor_text>jobs</anchor_text>
+      </FacetItem>
+    </Facet>
+  </Context>
+  <RES SN="1" EN="10">
+    <M>1040</M>
+    <FI></FI>
+    <NB>
+      <NU>/custom?q=st.+georges+New+community&amp;hl=en&amp;client=google-csbe&amp;cx=002206009437565740511:m1b764ynfvk&amp;boostcse=0&amp;output=xml_no_dtd&amp;ie=UTF-8&amp;oe=UTF-8&amp;prmd=ivns&amp;ei=acUEUevOLcq30QX_soHwBA&amp;start=10&amp;sa=N</NU>
+    </NB>
+    <RG START="1" SIZE="10"></RG>
+    <RG START="1" SIZE="1">    </RG>
+    <R N="1">
+      <U>http://www.leicester.gov.uk/your-council-services/lc/events/major-events/stgeorges-festival/</U>
+      <UE>http://www.leicester.gov.uk/your-council-services/lc/events/major-events/stgeorges-festival/</UE>
+      <T>Leicester City Council - &lt;b&gt;St&lt;/b&gt;.&lt;b&gt;George&amp;#39;s&lt;/b&gt; Festival</T>
+      <RK>0</RK>
+      <S>In addition Leicester Market hosts its annual re-enactment of &lt;b&gt;St George&lt;/b&gt; slaying &lt;br&gt;  the dragon and rescuing a damsel in distress. &lt;b&gt;St&lt;/b&gt;. &lt;b&gt;George&amp;#39;s&lt;/b&gt; Festival: Join us on &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.coverage" value="UK"/>
+          <Attribute name="dc.date.created" value="2010-01-20T16:20:13Z"/>
+          <Attribute name="dc.date.modified" value="2012-06-06T14:39:39Z"/>
+          <Attribute name="dc.description" value="Details for events for the 3 day festival"/>
+          <Attribute name="dc.format" value="Text/html"/>
+          <Attribute name="dc.identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="dc.language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="dc.publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="dc.rights" value="Reproduction by Permission Only"/>
+          <Attribute name="dc.rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="dc.status" value="Version 1.0. For publication"/>
+          <Attribute name="dc.title" value="St.George&#39;s Festival"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="date.created" value="2010-01-20T16:20:13Z"/>
+          <Attribute name="date.modified" value="2012-06-06T14:39:39Z"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="status" value="Version 1.0. For publication"/>
+          <Attribute name="title" value="St.George&#39;s Festival"/>
+          <Attribute name="accessibility" value="(pics-1.1 &#39;http://www.icra.org/ratingsv02.html&#39; l gen true for &#39;http://www.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://secure.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://my.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1))"/>
+          <Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no;"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.leicester.gov.uk/EasySiteWeb/getresource.axd?AssetID=75587&amp;type=full&amp;servicetype=Inline&amp;customSizeId=0"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="362"/>
+          <Attribute name="height" value="139"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcRLS8Rw_1emSfm3QcBJJev-opcULXKt4xEMOa6-zcr1fwrG9BHdYs82u_gq"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="59k" CID="t3HEhCJV2bgJ"/>
+        <RT/>
+      </HAS>
+    </R>
+    <RG START="2" SIZE="1">    </RG>
+    <R N="2" MIME="application/pdf">
+      <U>http://www.leicester.gov.uk/sys_upl/documents/departments/dpt_3366.pdf</U>
+      <UE>http://www.leicester.gov.uk/sys_upl/documents/departments/dpt_3366.pdf</UE>
+      <T>&lt;b&gt;St Georges&lt;/b&gt; N and S web doc part 1 - Leicester City Council</T>
+      <RK>0</RK>
+      <S>&lt;b&gt;New Community&lt;/b&gt;. 5. Waterside. The locations of these intervention areas are &lt;br&gt;  indicated on Map 2. 1.2 &lt;b&gt;New Community&lt;/b&gt;, Development Framework &lt;b&gt;St George&amp;#39;s&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="creator" value="Microsoft Word - St Georges N and S web doc part 1"/>
+          <Attribute name="creationdate" value="D:20041201160421"/>
+          <Attribute name="title" value="St Georges N and S web doc part 1.doc"/>
+          <Attribute name="author" value="wilsg001"/>
+          <Attribute name="producer" value="Acrobat PDFWriter 5.0 for Windows NT"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="" CID="UGV2xT1b4X0J"/>
+        <RT/>
+      </HAS>
+    </R>
+    <RG START="3" SIZE="1">    </RG>
+    <R N="3" MIME="application/pdf">
+      <U>http://www.leicester.gov.uk/sys_upl/documents/departments/dpt_3369.pdf</U>
+      <UE>http://www.leicester.gov.uk/sys_upl/documents/departments/dpt_3369.pdf</UE>
+      <T>&lt;b&gt;St Georges&lt;/b&gt; N and S web doc part 4 - Leicester City Council</T>
+      <RK>0</RK>
+      <S>&lt;b&gt;St&lt;/b&gt;. &lt;b&gt;George&amp;#39;s&lt;/b&gt; (&lt;b&gt;New Community&lt;/b&gt;) area. This should indicate the areas of greatest &lt;br&gt;  archaeological potential. Developers submitting proposals in the areas of the &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="creator" value="Microsoft Word - St Georges N and S web doc part 4"/>
+          <Attribute name="creationdate" value="D:20041201163416"/>
+          <Attribute name="title" value="St Georges N and S web doc part 4.doc"/>
+          <Attribute name="author" value="wilsg001"/>
+          <Attribute name="producer" value="Acrobat PDFWriter 5.0 for Windows NT"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="" CID="M0Qhe872kgQJ"/>
+        <RT/>
+      </HAS>
+    </R>
+    <RG START="4" SIZE="1">    </RG>
+    <R N="4">
+      <U>http://www.leicester.gov.uk/your-council-services/ep/planning/conservation/conservationareas/conservationareasleicester/st-georges/</U>
+      <UE>http://www.leicester.gov.uk/your-council-services/ep/planning/conservation/conservationareas/conservationareasleicester/st-georges/</UE>
+      <T>Leicester City Council - &lt;b&gt;St George&amp;#39;s&lt;/b&gt; Conservation Area</T>
+      <RK>0</RK>
+      <S>&lt;b&gt;St George&amp;#39;s&lt;/b&gt; Conservation Area was originally designated in May 1989, and &lt;br&gt;  covered an &lt;b&gt;...&lt;/b&gt; The conservation area includes &lt;b&gt;St George&amp;#39;s&lt;/b&gt; Churchyard and parts &lt;br&gt;  of &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.coverage" value="UK"/>
+          <Attribute name="dc.date.created" value="2002-10-23T17:23:29Z"/>
+          <Attribute name="dc.date.modified" value="2012-01-25T14:49:27Z"/>
+          <Attribute name="dc.description" value="St George&#39;s Conservation Area was originally designated in May 1989, and covered an area of approximately 5.73 hectares. The conservation area was enlarged in 2003, and now extends to approximately 10.69 hectares.In July 2003, the Council approved a Character Statement as supplementary planning guidance to the City of Leicester Local Plan.The conservation area includes St George&#39;s Churchyard and parts of Rutland Street, Humberstone Gate and Wharf Street South.A Heritage Economic Regeneration..."/>
+          <Attribute name="dc.format" value="Text/html"/>
+          <Attribute name="dc.identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="dc.language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="dc.publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="dc.rights" value="Reproduction by Permission Only"/>
+          <Attribute name="dc.rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="dc.status" value="Version 1.0. For publication"/>
+          <Attribute name="dc.title" value="St George&#39;s Conservation Area"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="date.created" value="2002-10-23T17:23:29Z"/>
+          <Attribute name="date.modified" value="2012-01-25T14:49:27Z"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="status" value="Version 1.0. For publication"/>
+          <Attribute name="title" value="St George&#39;s Conservation Area"/>
+          <Attribute name="accessibility" value="(pics-1.1 &#39;http://www.icra.org/ratingsv02.html&#39; l gen true for &#39;http://www.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://secure.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://my.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1))"/>
+          <Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no;"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.leicester.gov.uk/EasySiteWeb/getresource.axd?AssetID=5721&amp;type=full&amp;servicetype=Inline&amp;customSizeId=0"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="204"/>
+          <Attribute name="height" value="248"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcRfg2tDRQPc6Q3W2xhbL9rYGASRYu3JHsZwDwhx0UCofs8NQ-8UXxgVR0o"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="59k" CID="ILtePXgmM6UJ"/>
+        <RT/>
+      </HAS>
+    </R>
+    <RG START="5" SIZE="1">    </RG>
+    <R N="5" MIME="application/pdf">
+      <U>http://www.leicester.gov.uk/culturalmapping/toolkit/leicester_lights.pdf</U>
+      <UE>http://www.leicester.gov.uk/culturalmapping/toolkit/leicester_lights.pdf</UE>
+      <T>Leicester Lights: Art on the Move - Leicester City Council</T>
+      <RK>0</RK>
+      <S>creation of a &lt;b&gt;new community&lt;/b&gt; in &lt;b&gt;St George&amp;#39;s&lt;/b&gt; North. (2) The Peepul Centre (&lt;br&gt;  Belgrave. Baheno initiative) is a multifaceted capital development (Andrzej &lt;br&gt;  Blonski &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="moddate" value="D:20051115114156Z"/>
+          <Attribute name="creationdate" value="D:20051115110548Z"/>
+          <Attribute name="title" value="untitled"/>
+          <Attribute name="producer" value="Acrobat Distiller 6.0.1 for Macintosh"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="" CID="vALuKLscdV0J"/>
+        <RT/>
+      </HAS>
+    </R>
+    <RG START="6" SIZE="1">    </RG>
+    <R N="6" MIME="application/pdf">
+      <U>http://www.cabinet.leicester.gov.uk/documents/s5785/may05St%20Georges%20North%20and%20South.pdf</U>
+      <UE>http://www.cabinet.leicester.gov.uk/documents/s5785/may05St%2520Georges%2520North%2520and%2520South.pdf</UE>
+      <T>WARDS AFFECTED: Castle 16TH May 2005 &lt;b&gt;ST&lt;/b&gt;.&lt;b&gt;GEORGE&amp;#39;S&lt;/b&gt; NORTH &lt;b&gt;...&lt;/b&gt;</T>
+      <RK>0</RK>
+      <BYLINEDATE>1116226800</BYLINEDATE>
+      <S>16 May 2005 &lt;b&gt;...&lt;/b&gt; to the Local Plan, for the &lt;b&gt;St&lt;/b&gt;. &lt;b&gt;George&amp;#39;s&lt;/b&gt; North and South area of the city centre, the &lt;br&gt;  “&lt;b&gt;new community&lt;/b&gt;” LRC intervention area. 2. Summary &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>cabinet</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="moddate" value="D:20050520111643+01&#39;00&#39;"/>
+          <Attribute name="creationdate" value="D:20050520111643+01&#39;00&#39;"/>
+          <Attribute name="title" value="untitled"/>
+          <Attribute name="producer" value="Acrobat Distiller 6.0 (Windows)"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="" CID="wmTvczVN49EJ"/>
+        <RT/>
+      </HAS>
+    </R>
+    <RG START="7" SIZE="1">    </RG>
+    <R N="7">
+      <U>http://www.leicester.gov.uk/your-council-services/ep/planning/plansandguidance/plansandpolicy/supersededspg/st-georges-north-south/</U>
+      <UE>http://www.leicester.gov.uk/your-council-services/ep/planning/plansandguidance/plansandpolicy/supersededspg/st-georges-north-south/</UE>
+      <T>Leicester City Council - &lt;b&gt;St George&amp;#39;s&lt;/b&gt; North and South Area Stategy &lt;b&gt;...&lt;/b&gt;</T>
+      <RK>0</RK>
+      <BYLINEDATE>1119855600</BYLINEDATE>
+      <S>27 Jun 2005 &lt;b&gt;...&lt;/b&gt; To enable comprehensive approach to the whole of &lt;b&gt;St George&amp;#39;s&lt;/b&gt;, this Area &lt;br&gt;  Strategy Guidance is for the LRC intervention area &lt;b&gt;New Community&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.coverage" value="UK"/>
+          <Attribute name="dc.date.created" value="2005-02-03T11:40:36Z"/>
+          <Attribute name="dc.date.modified" value="2010-10-20T09:39:02Z"/>
+          <Attribute name="dc.description" value="The St George&#39;s North and South Area Strategy Guidance was adopted by the City Council on 27 June 2005.To enable comprehensive approach to the whole of St George&#39;s, this Area Strategy Guidance is for the LRC intervention area New Community and the LCC Cultural Quarter.The purpose of the guidance is to: Illustrate clear planning and urban design guidance for St George&#39;s North and South. It provides a &#39;vision&#39; for the area.Promote a mix of land use at an appropriate density to..."/>
+          <Attribute name="dc.format" value="Text/html"/>
+          <Attribute name="dc.identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="dc.language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="dc.publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="dc.rights" value="Reproduction by Permission Only"/>
+          <Attribute name="dc.rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="dc.status" value="Version 1.0. For publication"/>
+          <Attribute name="dc.title" value="St George&#39;s North and South Area Stategy Guidance"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="date.created" value="2005-02-03T11:40:36Z"/>
+          <Attribute name="date.modified" value="2010-10-20T09:39:02Z"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="status" value="Version 1.0. For publication"/>
+          <Attribute name="title" value="St George&#39;s North and South Area Stategy Guidance"/>
+          <Attribute name="accessibility" value="(pics-1.1 &#39;http://www.icra.org/ratingsv02.html&#39; l gen true for &#39;http://www.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://secure.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://my.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1))"/>
+          <Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no;"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="58k" CID="wWoZisqC5xoJ"/>
+        <RT/>
+      </HAS>
+    </R>
+    <RG START="8" SIZE="1">    </RG>
+    <R N="8">
+      <U>http://www.leicester.gov.uk/your-council-services/ep/planning/plansandguidance/localplan/writtenstatement/adoptedcllpchapt2/</U>
+      <UE>http://www.leicester.gov.uk/your-council-services/ep/planning/plansandguidance/localplan/writtenstatement/adoptedcllpchapt2/</UE>
+      <T>Leicester City Council - Plan Strategy</T>
+      <RK>0</RK>
+      <S>The creation of a major &lt;b&gt;new&lt;/b&gt; residential and working &lt;b&gt;community&lt;/b&gt; in &lt;b&gt;St&lt;/b&gt;. &lt;b&gt;George&amp;#39;s&lt;/b&gt; &lt;br&gt;  North;. • The creation of a &lt;b&gt;new&lt;/b&gt; waterside development reuniting the City with its &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.coverage" value="UK"/>
+          <Attribute name="dc.date.created" value="2006-02-07T17:47:36Z"/>
+          <Attribute name="dc.date.modified" value="2012-11-06T13:10:30Z"/>
+          <Attribute name="dc.description" value="Core Statement of General Policies 2.1. Leicester continues to need more houses, jobs and other facilities. Unlike many other cities it does not have a plentiful supply of new land for buildings within its border. Nor does it have a legacy of major industrial dereliction from which it can draw substantial amounts of brownfield land. At the same time it is a City very conscious of the need to safeguard and improve its environment and, where there is industrial dereliction, to generate new jobs..."/>
+          <Attribute name="dc.format" value="Text/html"/>
+          <Attribute name="dc.identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="dc.language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="dc.publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="dc.rights" value="Reproduction by Permission Only"/>
+          <Attribute name="dc.rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="dc.status" value="Version 1.0. For publication"/>
+          <Attribute name="dc.title" value="Plan Strategy"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="date.created" value="2006-02-07T17:47:36Z"/>
+          <Attribute name="date.modified" value="2012-11-06T13:10:30Z"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="status" value="Version 1.0. For publication"/>
+          <Attribute name="title" value="Plan Strategy"/>
+          <Attribute name="accessibility" value="(pics-1.1 &#39;http://www.icra.org/ratingsv02.html&#39; l gen true for &#39;http://www.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://secure.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://my.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1))"/>
+          <Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no;"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="149k" CID="ANH4Xf0eWn8J"/>
+        <RT/>
+      </HAS>
+    </R>
+    <RG START="9" SIZE="1">    </RG>
+    <R N="9">
+      <U>http://www.leicester.gov.uk/your-council-services/lc/events/major-events/stgeorges-festival/facts/</U>
+      <UE>http://www.leicester.gov.uk/your-council-services/lc/events/major-events/stgeorges-festival/facts/</UE>
+      <T>Leicester City Council - &lt;b&gt;St&lt;/b&gt;. &lt;b&gt;George&amp;#39;s&lt;/b&gt; Day Facts</T>
+      <RK>0</RK>
+      <S>&lt;b&gt;St&lt;/b&gt;. &lt;b&gt;George&amp;#39;s&lt;/b&gt; day is on 23rd April and it is England&amp;#39;s national day. &lt;b&gt;St George&lt;/b&gt; is the &lt;br&gt;  patron saint of England and he is often identified with English ideals of honour, &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.coverage" value="UK"/>
+          <Attribute name="dc.date.created" value="2010-03-02T11:47:54Z"/>
+          <Attribute name="dc.date.modified" value="2012-03-20T14:56:38Z"/>
+          <Attribute name="dc.description" value="Useful facts about useful day."/>
+          <Attribute name="dc.format" value="Text/html"/>
+          <Attribute name="dc.identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="dc.language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="dc.publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="dc.rights" value="Reproduction by Permission Only"/>
+          <Attribute name="dc.rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="dc.status" value="Version 1.0. For publication"/>
+          <Attribute name="dc.title" value="St. George&#39;s Day Facts"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="date.created" value="2010-03-02T11:47:54Z"/>
+          <Attribute name="date.modified" value="2012-03-20T14:56:38Z"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="status" value="Version 1.0. For publication"/>
+          <Attribute name="title" value="St. George&#39;s Day Facts"/>
+          <Attribute name="accessibility" value="(pics-1.1 &#39;http://www.icra.org/ratingsv02.html&#39; l gen true for &#39;http://www.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://secure.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://my.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1))"/>
+          <Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no;"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.leicester.gov.uk/EasySiteWeb/getresource.axd?AssetID=55055&amp;type=full&amp;servicetype=Inline&amp;customSizeId=0"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="362"/>
+          <Attribute name="height" value="139"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcReACmBVSu8Nbv6SlouqhoPmzsFQ7ywpaL3Ktwkz6LhpMPlGk1U6sGhh7WV"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="49k" CID="fH2pAqkxohcJ"/>
+        <RT/>
+      </HAS>
+    </R>
+    <RG START="10" SIZE="1">    </RG>
+    <R N="10">
+      <U>http://www.leicester.gov.uk/your-council-services/ep/planning/conservation/conservationareas/conservationareasleicester/st-georges/character-statement/</U>
+      <UE>http://www.leicester.gov.uk/your-council-services/ep/planning/conservation/conservationareas/conservationareasleicester/st-georges/character-statement/</UE>
+      <T>Leicester City Council - &lt;b&gt;St George&amp;#39;s&lt;/b&gt; Conservation Area: Character &lt;b&gt;...&lt;/b&gt;</T>
+      <RK>0</RK>
+      <S>In July 2003, the City Council adopted a Character Statement for the &lt;b&gt;St George&amp;#39;s&lt;/b&gt; &lt;br&gt;  Conservation Area, as Supplementary Planning Guidance to the City of &lt;b&gt;...&lt;/b&gt;</S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="dc.coverage" value="UK"/>
+          <Attribute name="dc.date.created" value="2004-03-22T13:54:26Z"/>
+          <Attribute name="dc.date.modified" value="2010-06-09T11:07:35Z"/>
+          <Attribute name="dc.description" value="In July 2003, the City Council adopted a Character Statement for the St George&#39;s Conservation Area, as Supplementary Planning Guidance to the City of Leicester Local Plan. The council is in the process of reviewing the adopted Character Statement and the draft version can be downloaded below. More information regarding the consultation can be found here.You can view the Character Statements by clicking the links below. The text is in MS Word format; the maps are in PDF format."/>
+          <Attribute name="dc.format" value="Text/html"/>
+          <Attribute name="dc.identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="dc.language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="dc.publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="dc.rights" value="Reproduction by Permission Only"/>
+          <Attribute name="dc.rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="dc.status" value="Version 1.0. For publication"/>
+          <Attribute name="dc.title" value="St George&#39;s Conservation Area: Character Appraisal"/>
+          <Attribute name="coverage" value="UK"/>
+          <Attribute name="date.created" value="2004-03-22T13:54:26Z"/>
+          <Attribute name="date.modified" value="2010-06-09T11:07:35Z"/>
+          <Attribute name="format" value="Text/html"/>
+          <Attribute name="identifier" value="http://www.leicester.gov.uk/"/>
+          <Attribute name="language" value="[ISO 639-2/B] Eng"/>
+          <Attribute name="publisher" value="Leicester City Council, New Walk Centre, Welford Place, Leicester LE1 6ZG customer.services@leicester.gov.uk"/>
+          <Attribute name="rights" value="Reproduction by Permission Only"/>
+          <Attribute name="rights.copyright" value="Copyright Leicester City Council unless otherwise stated. All Rights Reserved."/>
+          <Attribute name="status" value="Version 1.0. For publication"/>
+          <Attribute name="title" value="St George&#39;s Conservation Area: Character Appraisal"/>
+          <Attribute name="accessibility" value="(pics-1.1 &#39;http://www.icra.org/ratingsv02.html&#39; l gen true for &#39;http://www.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://secure.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for &#39;http://my.leicester.gov.uk&#39; r (nz 1 vz 1 lz 1 oz 1 cz 1))"/>
+          <Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no;"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.leicester.gov.uk/EasySiteWeb/getresource.axd?AssetID=60460&amp;type=full&amp;servicetype=Inline&amp;customSizeId=0"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="240"/>
+          <Attribute name="height" value="164"/>
+          <Attribute name="src" value="http://t1.gstatic.com/images?q=tbn:ANd9GcQUKiZGS45IXaafHf57tuLj6yIXB7ciR5LgRlbvSy4oo1HXlkd5Dwv-qXAI"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L/>
+        <C SZ="56k" CID="fhrrzCEI-LEJ"/>
+        <RT/>
+      </HAS>
+    </R>
+  </RES>
+</GSP>

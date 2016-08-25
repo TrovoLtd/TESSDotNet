@@ -1,0 +1,2465 @@
+----------------------------------------
+Timestamp: 23/11/2014 14:31:56
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7488
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:56
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7488
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:56
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7488
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:56
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\NoFileHere'.
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1501
+
+Severity: Error
+
+Title:Search results file could not be found.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7488
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:56
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7488
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:56
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7488
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:56
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7488
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:56
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7488
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:56
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7488
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\NoFileHere'.
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1501
+
+Severity: Error
+
+Title:Search results file could not be found.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query client=google-csbe&output=xml_no_dtd&cx=&q=&num=0&start=0
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1505
+
+Severity: Error
+
+Title:The Google domain could not be accessed by the Trovo system. This might be a DNS or connectivity issue.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:31:59
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1504
+
+Severity: Error
+
+Title:An XML parsing error of an unexpected kind occurred while processing the Google results.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:10184
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:08
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query client=google-csbe&output=xml_no_dtd&cx=&q=&num=0&start=0
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1505
+
+Severity: Error
+
+Title:The Google domain could not be accessed by the Trovo system. This might be a DNS or connectivity issue.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7656
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:08
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1504
+
+Severity: Error
+
+Title:An XML parsing error of an unexpected kind occurred while processing the Google results.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:7656
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\NoFileHere'.
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1501
+
+Severity: Error
+
+Title:Search results file could not be found.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query client=google-csbe&output=xml_no_dtd&cx=&q=&num=0&start=0
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1505
+
+Severity: Error
+
+Title:The Google domain could not be accessed by the Trovo system. This might be a DNS or connectivity issue.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 14:33:15
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1504
+
+Severity: Error
+
+Title:An XML parsing error of an unexpected kind occurred while processing the Google results.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6116
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 15:28:08
+
+Message: Could not find a part of the path 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TessaMockSearchProviderAdaptor\MockData\searchResults.xml'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1522
+
+Severity: Error
+
+Title:An error occurred while reading the mock search data from the XML file at the location specified.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9784
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 15:28:08
+
+Message: Could not find a part of the path 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TessaMockSearchProviderAdaptor\MockData\searchResults.xml'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1523
+
+Severity: Error
+
+Title:An error occurred while serialising the data the mock search data for the node for query: TrovoSiteSearch.TrovoQuery.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9784
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 15:28:08
+
+Message: Could not find a part of the path 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TessaMockSearchProviderAdaptor\MockData\searchResults.xml'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1522
+
+Severity: Error
+
+Title:An error occurred while reading the mock search data from the XML file at the location specified.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9784
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 15:28:08
+
+Message: Could not find a part of the path 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TessaMockSearchProviderAdaptor\MockData\searchResults.xml'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1523
+
+Severity: Error
+
+Title:An error occurred while serialising the data the mock search data for the node for query: TrovoSiteSearch.TrovoQuery.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9784
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 15:28:08
+
+Message: Could not find a part of the path 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TessaMockSearchProviderAdaptor\MockData\searchResults.xml'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1522
+
+Severity: Error
+
+Title:An error occurred while reading the mock search data from the XML file at the location specified.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9784
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 15:28:08
+
+Message: Could not find a part of the path 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TessaMockSearchProviderAdaptor\MockData\searchResults.xml'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1523
+
+Severity: Error
+
+Title:An error occurred while serialising the data the mock search data for the node for query: TrovoSiteSearch.TrovoQuery.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9784
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 15:28:08
+
+Message: Could not find a part of the path 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TessaMockSearchProviderAdaptor\MockData\searchResults.xml'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1522
+
+Severity: Error
+
+Title:An error occurred while reading the mock search data from the XML file at the location specified.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9784
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 15:28:08
+
+Message: Could not find a part of the path 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TessaMockSearchProviderAdaptor\MockData\searchResults.xml'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1523
+
+Severity: Error
+
+Title:An error occurred while serialising the data the mock search data for the node for query: TrovoSiteSearch.TrovoQuery.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9784
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 15:28:08
+
+Message: Could not find a part of the path 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TessaMockSearchProviderAdaptor\MockData\searchResults.xml'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1522
+
+Severity: Error
+
+Title:An error occurred while reading the mock search data from the XML file at the location specified.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9784
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 15:28:08
+
+Message: Could not find a part of the path 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TessaMockSearchProviderAdaptor\MockData\searchResults.xml'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1523
+
+Severity: Error
+
+Title:An error occurred while serialising the data the mock search data for the node for query: TrovoSiteSearch.TrovoQuery.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 8044
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9784
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\NoFileHere'.
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1501
+
+Severity: Error
+
+Title:Search results file could not be found.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query client=google-csbe&output=xml_no_dtd&cx=&q=&num=0&start=0
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1505
+
+Severity: Error
+
+Title:The Google domain could not be accessed by the Trovo system. This might be a DNS or connectivity issue.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:28:05
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1504
+
+Severity: Error
+
+Title:An XML parsing error of an unexpected kind occurred while processing the Google results.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 4788
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:6372
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\NoFileHere'.
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1501
+
+Severity: Error
+
+Title:Search results file could not be found.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query client=google-csbe&output=xml_no_dtd&cx=&q=&num=0&start=0
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1505
+
+Severity: Error
+
+Title:The Google domain could not be accessed by the Trovo system. This might be a DNS or connectivity issue.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:30
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1504
+
+Severity: Error
+
+Title:An XML parsing error of an unexpected kind occurred while processing the Google results.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:31
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\won't find any XML here'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1522
+
+Severity: Error
+
+Title:An error occurred while reading the mock search data from the XML file at the location specified.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:31
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\won't find any XML here'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1523
+
+Severity: Error
+
+Title:An error occurred while serialising the data the mock search data for the node for query: TrovoSiteSearch.TrovoQuery.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:32:31
+
+Message: The search provider library will have logged the most common types of error into this log. Please check for errors with codes between 1500 and 1518 with timestamps similar to this. Also, the .Net exception message was: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\won't find any XML here'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1521
+
+Severity: Error
+
+Title:A general exception occurred when the Trovo Search application attempted to execute a search. See the message for more details.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:5228
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:40
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\won't find any XML here'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1522
+
+Severity: Error
+
+Title:An error occurred while reading the mock search data from the XML file at the location specified.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:8032
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:40
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\won't find any XML here'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1523
+
+Severity: Error
+
+Title:An error occurred while serialising the data the mock search data for the node for query: TrovoSiteSearch.TrovoQuery.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:8032
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:40
+
+Message: The search provider library will have logged the most common types of error into this log. Please check for errors with codes between 1500 and 1518 with timestamps similar to this. Also, the .Net exception message was: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\won't find any XML here'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1521
+
+Severity: Error
+
+Title:A general exception occurred when the Trovo Search application attempted to execute a search. See the message for more details.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:8032
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\NoFileHere'.
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1501
+
+Severity: Error
+
+Title:Search results file could not be found.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: Unexpected end of file has occurred. The following elements are not closed: LESS_TEXT, SEARCH_MODES, GSP. Line 20, position 19. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1502
+
+Severity: Error
+
+Title:The results returned from Google contained XML that was not properly formed.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: <GASP xmlns=''> was not expected. Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1503
+
+Severity: Error
+
+Title:The results file contained XML in an unexpected format.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query client=google-csbe&output=xml_no_dtd&cx=&q=&num=0&start=0
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1505
+
+Severity: Error
+
+Title:The Google domain could not be accessed by the Trovo system. This might be a DNS or connectivity issue.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: The remote name could not be resolved: 'local.url.wontwork' Caused by query - 
+
+Category: ErrorUnrecoverable
+
+Priority: 50
+
+EventId: 1504
+
+Severity: Error
+
+Title:An XML parsing error of an unexpected kind occurred while processing the Google results.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\won't find any XML here'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1522
+
+Severity: Error
+
+Title:An error occurred while reading the mock search data from the XML file at the location specified.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\won't find any XML here'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1523
+
+Severity: Error
+
+Title:An error occurred while serialising the data the mock search data for the node for query: TrovoSiteSearch.TrovoQuery.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 23/11/2014 17:36:43
+
+Message: The search provider library will have logged the most common types of error into this log. Please check for errors with codes between 1500 and 1518 with timestamps similar to this. Also, the .Net exception message was: Could not find file 'D:\TFS\Trovo\SiteSearch\TrovoEnhancedSiteSearch\TrovoSiteSearchTests\bin\Release\won't find any XML here'.
+
+Category: ErrorRecoverable
+
+Priority: 55
+
+EventId: 1521
+
+Severity: Error
+
+Title:A general exception occurred when the Trovo Search application attempted to execute a search. See the message for more details.
+
+Machine: DELL9010
+
+App Domain: UnitTestAdapter: Running test
+
+ProcessId: 3992
+
+Process Name: C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\vstest.executionengine.x86.exe
+
+Thread Name: 
+
+Win32 ThreadId:9432
+
+Extended Properties: 
+----------------------------------------

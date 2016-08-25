@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GSP VER="3.2">
+  <TM>0.277262</TM>
+  <Q>hadron</Q>
+  <PARAM js_escaped_value="google-csbe" name="client" original_value="google-csbe" url_escaped_value="google-csbe" value="google-csbe"></PARAM>
+  <PARAM js_escaped_value="xml_no_dtd" name="output" original_value="xml_no_dtd" url_escaped_value="xml_no_dtd" value="xml_no_dtd"></PARAM>
+  <PARAM js_escaped_value="002206009437565740511:m1b764ynfvk" name="cx" original_value="002206009437565740511%3Am1b764ynfvk" url_escaped_value="002206009437565740511%3Am1b764ynfvk" value="002206009437565740511:m1b764ynfvk"></PARAM>
+  <PARAM js_escaped_value="hadron" name="q" original_value="hadron" url_escaped_value="hadron" value="hadron"></PARAM>
+  <PARAM js_escaped_value="10" name="num" original_value="10" url_escaped_value="10" value="10"></PARAM>
+  <PARAM js_escaped_value="0" name="start" original_value="0" url_escaped_value="0" value="0"></PARAM>
+  <PARAM js_escaped_value="AELymgUgap7-JaXxz-9vmaTFavdZw3iQZxGlNkWnl9ZoBivRhTj74TT4n8VG02KzjC7583vTvYUql6RP_5FgUhPB2UIXMVWMPoa-T6Fg9fKEGjLL-MPSpy_kFWvQcBAj2X1Q3w0-Zm7V979uORLAEvyfTQBjVJIaoLOmIFad-k4IPkT7ILJG7KiLS6CQL6gqM5An62k8saJREnll2Q_4GzDnQ-2OrWZAaA" name="adkw" original_value="AELymgUgap7-JaXxz-9vmaTFavdZw3iQZxGlNkWnl9ZoBivRhTj74TT4n8VG02KzjC7583vTvYUql6RP_5FgUhPB2UIXMVWMPoa-T6Fg9fKEGjLL-MPSpy_kFWvQcBAj2X1Q3w0-Zm7V979uORLAEvyfTQBjVJIaoLOmIFad-k4IPkT7ILJG7KiLS6CQL6gqM5An62k8saJREnll2Q_4GzDnQ-2OrWZAaA" url_escaped_value="AELymgUgap7-JaXxz-9vmaTFavdZw3iQZxGlNkWnl9ZoBivRhTj74TT4n8VG02KzjC7583vTvYUql6RP_5FgUhPB2UIXMVWMPoa-T6Fg9fKEGjLL-MPSpy_kFWvQcBAj2X1Q3w0-Zm7V979uORLAEvyfTQBjVJIaoLOmIFad-k4IPkT7ILJG7KiLS6CQL6gqM5An62k8saJREnll2Q_4GzDnQ-2OrWZAaA" value="AELymgUgap7-JaXxz-9vmaTFavdZw3iQZxGlNkWnl9ZoBivRhTj74TT4n8VG02KzjC7583vTvYUql6RP_5FgUhPB2UIXMVWMPoa-T6Fg9fKEGjLL-MPSpy_kFWvQcBAj2X1Q3w0-Zm7V979uORLAEvyfTQBjVJIaoLOmIFad-k4IPkT7ILJG7KiLS6CQL6gqM5An62k8saJREnll2Q_4GzDnQ-2OrWZAaA"></PARAM>
+  <PARAM js_escaped_value="en" name="hl" original_value="en" url_escaped_value="en" value="en"></PARAM>
+  <PARAM js_escaped_value="UTF-8" name="oe" original_value="UTF-8" url_escaped_value="UTF-8" value="UTF-8"></PARAM>
+  <PARAM js_escaped_value="UTF-8" name="ie" original_value="UTF-8" url_escaped_value="UTF-8" value="UTF-8"></PARAM>
+  <PARAM js_escaped_value="0" name="boostcse" original_value="0" url_escaped_value="0" value="0"></PARAM>
+  <Context>
+    <title>Trovo Site Search</title>
+    <total_results>0</total_results>
+    <Facet>
+      <FacetItem>
+        <label>science</label>
+        <count>0</count>
+        <anchor_text>Science</anchor_text>
+        <label_op>more</label_op>
+      </FacetItem>
+    </Facet>
+  </Context>
+  <RES EN="10" SN="1">
+    <M>499</M>
+    <NB>
+      <NU>/custom?q=hadron&amp;client=google-csbe&amp;cx=002206009437565740511:m1b764ynfvk&amp;hl=en&amp;boostcse=0&amp;output=xml_no_dtd&amp;ie=UTF-8&amp;oe=UTF-8&amp;prmd=ivns&amp;ei=jbd6VM_BLcTYPJ7fgMAM&amp;start=10&amp;sa=N</NU>
+    </NB>
+    <RG SIZE="11" START="1"></RG>
+    <RG START="1" SIZE="1"></RG>
+    <R N="1">
+      <U>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/large_hadron_collider</U>
+      <UE>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/large_hadron_collider</UE>
+      <T>Large &lt;b&gt;Hadron&lt;/b&gt; Collider</T>
+      <RK>0</RK>
+      <S></S>
+      <LANG>un</LANG>
+      <SL_RESULTS>
+        <SL_MAIN>
+          <T>
+            Large <em>Hadron</em> Collider
+          </T>
+          <U>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/large_hadron_collider</U>
+          <IMAGE>
+            <IMAGE_WIDTH>40</IMAGE_WIDTH>
+            <IMAGE_HEIGHT>40</IMAGE_HEIGHT>
+            <IMAGE_SOURCE>//images1-prose-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.sciencemuseum.org.uk/~/media/ScM/explore_our_collection/lhc/inside_the_lhc/Alice-detector-1_960px.jpg&amp;container=prose&amp;gadget=a&amp;rewriteMime=image/*&amp;resize_w=40&amp;resize_h=40&amp;no_expand=1</IMAGE_SOURCE>
+            <IMAGE_SOURCE_ALT>//images1-prose-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.sciencemuseum.org.uk/~/media/ScM/explore_our_collection/lhc/inside_the_lhc/Alice-detector-1_960px.jpg&amp;container=prose&amp;gadget=a&amp;rewriteMime=image/*&amp;resize_w=60&amp;resize_h=60&amp;no_expand=1</IMAGE_SOURCE_ALT>
+          </IMAGE>
+          <BODY_LINE>
+            <BLOCK>
+              <T>Discover the most powerful particle accelerator ever built and the history of particle science.</T>
+              <U></U>
+              <L></L>
+            </BLOCK>
+          </BODY_LINE>
+          <BODY_LINE></BODY_LINE>
+        </SL_MAIN>
+      </SL_RESULTS>
+    </R>
+    <RG SIZE="1" START="2"></RG>
+    <R N="2">
+      <U>http://www.sciencemuseum.org.uk/visitmuseum/Plan_your_visit/exhibitions/collider.aspx</U>
+      <UE>http://www.sciencemuseum.org.uk/visitmuseum/Plan_your_visit/exhibitions/collider.aspx</UE>
+      <T>Collider – this exhibition is now on international tour</T>
+      <RK>0</RK>
+      <S>
+        Buried deep under the border between Switzerland and France, CERN&amp;#39;s Large &lt;br&gt;
+        &lt;b&gt;Hadron&lt;/b&gt; Collider is the work of 10,000 men and women from across the globe,&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/ImageHandler.ashx?image=%7BB505F6E5-87FB-47F3-A2F6-5F49BF10C019%7D&amp;height=392&amp;width=800&amp;crop=true"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="321"/>
+          <Attribute name="height" value="157"/>
+          <Attribute name="src" value="http://t0.gstatic.com/images?q=tbn:ANd9GcQaVuCnpm96pWwVkqIlGvKm_oeI1K5Rinplvq0bOwHFwB-N5TwFfRQoa5aX"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="PwX5Txsr0ukJ" SZ="60k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="3"></RG>
+    <R N="3">
+      <U>http://www.sciencemuseum.org.uk/visitmuseum/Plan_your_visit/exhibitions/collider/inside_the_lhc_content/the_collider.aspx</U>
+      <UE>http://www.sciencemuseum.org.uk/visitmuseum/Plan_your_visit/exhibitions/collider/inside_the_lhc_content/the_collider.aspx</UE>
+      <T>The collider</T>
+      <RK>0</RK>
+      <S>
+        CERN&amp;#39;s Large &lt;b&gt;Hadron&lt;/b&gt; Collider (LHC) is the largest and most powerful particle &lt;br&gt;
+        collider ever built. Housed in a 27-km tunnel beneath the Swiss-French border,&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/~/media/RWSCIM/content_images/collider/inside_the_lhc/the_collider/1_lhc_tunnel_700px.jpg"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="299"/>
+          <Attribute name="height" value="169"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcTEQIyD7hAxssLQIhsAtk22JTWGCVj2O8d6eIx9HUkGq4qD2Kc0VGzh9lFT"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="CYLKFFWmFyAJ" SZ="39k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="4"></RG>
+    <R N="4">
+      <U>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/large_hadron_collider/inside_the_lhc</U>
+      <UE>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/large_hadron_collider/inside_the_lhc</UE>
+      <T>Inside the LHC</T>
+      <RK>0</RK>
+      <S>
+        Find out more about the Large &lt;b&gt;Hadron&lt;/b&gt; Collider (LHC), the largest and most &lt;br&gt;
+        powerful particle accelerator ever built. The LHC is the largest and most powerful&lt;br&gt;
+        &amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/~/media/ScM/explore_our_collection/lhc/inside_the_lhc/CMS-detector-2_960px.jpg?as=1&amp;mh=582"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="288"/>
+          <Attribute name="height" value="175"/>
+          <Attribute name="src" value="http://t3.gstatic.com/images?q=tbn:ANd9GcTiCNFmehMcpFPhXJCeZ3D_EHjYNcTvIIZNNGUwqxwrNkuq-4S1ffp9On0"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="Af2Eexf0XLMJ" SZ="41k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="5"></RG>
+    <R N="5">
+      <U>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/stories/hunt_for_the_higgs_boson</U>
+      <UE>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/stories/hunt_for_the_higgs_boson</UE>
+      <T>The Hunt for the Higgs boson</T>
+      <RK>0</RK>
+      <S>
+        Explore our collections &amp;middot; Science Museum apps &amp;middot; Games &amp;middot; Large &lt;b&gt;Hadron&lt;/b&gt; Collider &lt;br&gt;
+        The science of particles Stories The hunt for the Higgs boson&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/~/media/ScM/explore_our_collection/lhc/higgs_boson/peter_higgs_in_collider_hero.jpg?as=1&amp;mh=350"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="288"/>
+          <Attribute name="height" value="175"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcSBPqySrY7h8UKlvbc6qGZm5OYbJNmo1cGLbwRuYfzAalqVRUXOvxSDMkU"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="k6FsQILA0wkJ" SZ="49k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="6"></RG>
+    <R MIME="application/pdf" N="6">
+      <U>http://www.sciencemuseum.org.uk/about_us/support_us/individual_supporters/~/media/999B40AEE1884F55BF9360EE9BA4867B.ashx</U>
+      <UE>http://www.sciencemuseum.org.uk/about_us/support_us/individual_supporters/~/media/999B40AEE1884F55BF9360EE9BA4867B.ashx</UE>
+      <T>Large &lt;b&gt;Hadron&lt;/b&gt; Collider</T>
+      <RK>0</RK>
+      <S>
+        The Large &lt;b&gt;Hadron&lt;/b&gt; Collider (LHC) at CERN, the European Organization for &lt;br&gt;
+        Nuclear. Research, has captured the public&amp;#39;s imagination like few other scientific&lt;br&gt;
+        &amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="creationdate" value="D:20121113141650Z"/>
+          <Attribute name="creator" value="Adobe InDesign CS5.5 (7.5)"/>
+          <Attribute name="moddate" value="D:20121113141658Z"/>
+          <Attribute name="producer" value="Adobe PDF Library 9.9"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="x-raw-image:///c7cd6d73cb6866bf492299a952026407743ac39289e340b28a99da23b9902f6a"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="226"/>
+          <Attribute name="height" value="223"/>
+          <Attribute name="src" value="http://t3.gstatic.com/images?q=tbn:ANd9GcQseztrvnAM7zfN7rZCfyP9HyCqhCKaRpaIQdkzNvQkrY6bshFgtyDvMNRG"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="SWFHMBG7fAkJ" SZ=""></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="7"></RG>
+    <R N="7">
+      <U>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/large_hadron_collider/the_science_of_particles</U>
+      <UE>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/large_hadron_collider/the_science_of_particles</UE>
+      <T>Large &lt;b&gt;hadron&lt;/b&gt; collider The science of particles Explore the frontiers &lt;b&gt;...&lt;/b&gt;</T>
+      <RK>0</RK>
+      <S>
+        Large &lt;b&gt;Hadron&lt;/b&gt; Collider. The science of particles. Explore the frontiers of physics, &lt;br&gt;
+        from Higgs bosons to enigmatic dark matter. Everything we experience in our&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/~/media/ScM/explore_our_collection/lhc/darkmatter/evidence-of-dark-matter_hero_960px.jpg?as=1&amp;mh=582"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="288"/>
+          <Attribute name="height" value="175"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcRcUM64wlXYjU85r6IlaPSEy7cWkj-22dHeum-JwoxFcVJYqjBTwVoheXo"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="WlVnmOd8nzgJ" SZ="48k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="8"></RG>
+    <R N="8">
+      <U>http://www.sciencemuseum.org.uk/visitmuseum/Plan_your_visit/exhibitions/~/link.aspx?_id=49D2D93777B04B0FB9DA46F390574CCD&amp;_z=z</U>
+      <UE>http://www.sciencemuseum.org.uk/visitmuseum/Plan_your_visit/exhibitions/~/link.aspx%3F_id%3D49D2D93777B04B0FB9DA46F390574CCD%26_z%3Dz</UE>
+      <T>More about our sponsors</T>
+      <RK>0</RK>
+      <S>
+        ... past decade by our staff, the UK particle physics community and CERN to bring &lt;br&gt;
+        the wonder and excitement of the Large &lt;b&gt;Hadron&lt;/b&gt; Collider to the general public.
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/ImageHandler.ashx?image=%7BC271A12C-DA29-4017-96A2-7BAED1919B84%7D&amp;height=210&amp;width=220&amp;crop=true"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="176"/>
+          <Attribute name="height" value="168"/>
+          <Attribute name="src" value="http://t1.gstatic.com/images?q=tbn:ANd9GcSTOBdenSYb6MmR889JUp-R7IuAdKkQWYZr33jOuZLnSpNcmaIkR2LwVYX4"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="2S2E-c4rzlIJ" SZ="36k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="9"></RG>
+    <R N="9">
+      <U>http://www.sciencemuseum.org.uk/onlinestuff/Audio_content/collider_exhibition.aspx</U>
+      <UE>http://www.sciencemuseum.org.uk/onlinestuff/Audio_content/collider_exhibition.aspx</UE>
+      <T>Collider exhibition audio content - - Science Museum</T>
+      <RK>0</RK>
+      <S>
+        This audio description is of a hydrogen canister from the Collider exhibition. The &lt;br&gt;
+        canister was used to feed particles into the Large &lt;b&gt;Hadron&lt;/b&gt; Collider in 2012.
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="rating" value="safe for all"/>
+          <Attribute name="dc.type" value="webpage"/>
+          <Attribute name="dc.format" value="text/xhtml"/>
+          <Attribute name="dc.title" value="Collider exhibition audio content"/>
+          <Attribute name="dc.description" value="Inside the Collider exhibition Listen to curator and particle&amp;nbsp;physisis"/>
+          <Attribute name="dc.publisher" value="NMSI / Science Museum"/>
+          <Attribute name="dc.date" value="2010-02-01"/>
+          <Attribute name="dc.language" value="en-GB"/>
+          <Attribute name="dc.identifier" value="http://www.sciencemuseum.org.uk/onlinestuff/Audio_content/collider_exhibition.aspx"/>
+          <Attribute name="dc.coverage" value="uk"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/onlinestuff/Audio_content/~/media/2093301EB51D4927B928013E9BB190D9.ashx"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="145"/>
+          <Attribute name="height" value="152"/>
+          <Attribute name="src" value="http://t2.gstatic.com/images?q=tbn:ANd9GcTK6r9wBe1qCt8tEO64WIX2K1AGjs4QML1H797nQ3XbKiOgQd2xIMrGECQ"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="FcnDqwmMLikJ" SZ="13k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="10"></RG>
+    <R N="10">
+      <U>http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2012/05/cern.aspx</U>
+      <UE>http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2012/05/cern.aspx</UE>
+      <T>Inspiring the next generation of atom smashers - About us - Science &lt;b&gt;...&lt;/b&gt;</T>
+      <RK>0</RK>
+      <BYLINEDATE>1336546800</BYLINEDATE>
+      <S>
+        9 May 2012 &lt;b&gt;...&lt;/b&gt; In the Large &lt;b&gt;Hadron&lt;/b&gt; Collider, a giant particle collider, scientists and engineers &lt;br&gt;
+        work at the extremes of temperature, vacuum and energy to&amp;nbsp;...
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="rating" value="safe for all"/>
+          <Attribute name="dc.type" value="webpage"/>
+          <Attribute name="dc.title" value="Inspiring the next generation of atom smashers"/>
+          <Attribute name="dc.description" value="The Science Museum is working with CERN in Geneva to create a temporary exh"/>
+          <Attribute name="dc.date" value="2012-02-21"/>
+          <Attribute name="dc.identifier" value="http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2012/05/cern.aspx"/>
+          <Attribute name="dc.coverage" value="uk"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="5292rPgddCsJ" SZ="18k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+    <RG SIZE="1" START="11"></RG>
+    <R N="11">
+      <U>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/stories/what_is_antimatter</U>
+      <UE>http://www.sciencemuseum.org.uk/online_science/explore_our_collections/stories/what_is_antimatter</UE>
+      <T>What is antimatter?</T>
+      <RK>0</RK>
+      <S>
+        ... a number of experiments are underway to test the matter-antimatter symmetry. &lt;br&gt;
+        One of the largest is the LHCb detector at the Large &lt;b&gt;Hadron&lt;/b&gt; Collider, CERN.
+      </S>
+      <LANG>en</LANG>
+      <Label>_cse_m1b764ynfvk</Label>
+      <Label>science</Label>
+      <PageMap>
+        <DataObject type="metatags">
+          <Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width"/>
+        </DataObject>
+        <DataObject type="cse_image">
+          <Attribute name="src" value="http://www.sciencemuseum.org.uk/~/media/ScM/explore_our_collection/lhc/antimatter/Nasa-spaceship.jpg?as=1&amp;mh=350"/>
+        </DataObject>
+        <DataObject type="cse_thumbnail">
+          <Attribute name="width" value="251"/>
+          <Attribute name="height" value="201"/>
+          <Attribute name="src" value="http://t3.gstatic.com/images?q=tbn:ANd9GcRxj1JqOBsFYFARZlH1zUG4oXLbzq1cmy4FrRRs474X0rsg2mXT2E8b9PVO"/>
+        </DataObject>
+      </PageMap>
+      <HAS>
+        <L></L>
+        <C CID="y0xADzgQHiUJ" SZ="40k"></C>
+        <RT></RT>
+      </HAS>
+    </R>
+  </RES>
+</GSP>
